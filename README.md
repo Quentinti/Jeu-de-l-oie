@@ -1,9 +1,9 @@
-#Projet du jeu de l'oie | ISN 2019
+# Projet du jeu de l'oie | ISN 2019
 
 ![Plateau du jeu de l'oie](http://image.noelshack.com/fichiers/2020/18/4/1588281134-plateau.jpg)
 
 
-##Pourquoi ce projet ?
+## Pourquoi ce projet ?
 
 Dans le cadre de la discipline ISN, nous devions faire un projet durant l’année scolaire pour la baccalauréat.
 
