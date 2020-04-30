@@ -10,3 +10,5 @@ Dans le cadre de la discipline ISN, nous devions faire un projet durant l’ann�
 Le but principal du projet était de pouvoir faire se **déplacer des pions sur un plateau**. De plus, leur déplacement devait correspondre aux règles imposées par le jeu de l’oie.
 
 Pour cela on a utilisé le langage de programmation **Python**. Il est relativement simple à comprendre et puissant. De plus la documentation est très complète, on a résolu beaucoup de nos problèmes grâce aux sites **[Stack Overflow](https://stackoverflow.com/)** et **[OpenClassrooms](https://openclassrooms.com/fr/)**. Nous avons largement utilisé le module **Tkinter de Python pour la partie graphique**.
+
+## Les règles du jeu de l'oie !
