@@ -1,0 +1,44 @@
+﻿Ciyaarta ciyaarta goos goosadka ah mac-
+Mashruuca Goose Game ISN %s
+«Ciyaar»
+<< Options >>
+<< Jooji >>
+<< Ku noqo liiska muhiimka ah >>
+<< Arag Dhibcaha >>
+<< Ku noqo fursadaha >>
+Isaga?
+Xulashada luqadda
+Mugga muusikada
+Saameynta saameynta dhawaaqa
+Doorashada tirada ciyaartoyda
+De 1 = %s | Dice 2 = %s | Horumarka %s
+Tour #%s
+<< Start the game >>
+Waa ciyaaryahanka ugu soo noqda %s/%s
+Waxaa jira %s (s) xabsi / sifiican
+Bilaw inaad gawaarida gasho
+Isku dar dharka
+<< Caawin >>
+Habka mugdiga ah?
+Bilaab ciyaar ciyaarta Goose:
+Ciyaaryahan walba wuxuu u ciyaaraa si uu u tuuro labada laadhuu. Iyadoo ku xiran lambarka ama nambarka la helay, cayaartu waxay horumarineysaa sanduuqkiisa sanduuqa.
+Waxaa jira xeerar ku saabsan ciyaarta Goose si aad ixtiraamto marka loo eego lambarka mid ka dhigaya ama sanduuqa midkuu dhaco.
+Aan u eegno dhowaan sharciyadan:
+☼ Bilawga ciyaarta, haddii mid ka mid ah ciyaartoyda la isku maro 9 ilaa 6 iyo 3, waa in uu si degdeg ah ugu sii gudbiyo lambarka lambarka 26. Haddii uu sameeyo 9 ilaa 4 iyo 5, wuxuu tagayaa lambarka 53.
+☼ Haddii ciyaartu socoto, ciyaaryahan uu ku dhaco goose, wuxuu mar kale horumariyaa dhibcaha la sameeyay.
+☼ Haddii uu ciyaaryahan soo rogo 6, waa inuu tagaa 12 jir.
+☼ Xiddiga ku dhejisanaya sanduuqa 19 ee udhigma hudheelka waa inuu u gudubaa inta uu socdo 2da sano.
+☼ Xiddiga ku dhejisan sanduuqa 31 ee ku habboon ceelka ayaa sugi doona ciyaaryahan kale inuu isku soo galo isla markaana booskiisa qaado.
+☼ Qofka ku dhejinaya sanduuqa 42 ee u dhigma labka qaybood ayaa hubaal ah inuu ku laabto sanduuqa 30.
+☼ Yaa u tagaa 52 udhexeeya xabsiga ayaa sugi doona ciyaaryahan kale inuu la yimaado isla lambar si uu uga tago.
+☼ Xiddiga u tagaya sanduuqa 58 ee u dhiganta sanduuqa Dhimashada Madaxa ayaa mar kale bilaabi doona ciyaarta ciyaarta bilowgeeda
+☼ Qof kasta oo ku soo biiray ciyaaryahan kale oo isku sanduuq ah waa inuu tagaa sanduuqa halkaasoo ciyaaryahankii kale uu horay u ciyaarayay.
+Sida loo guuleysto cayaarta Goose:
+Si aad u guuleysatid kulan Goose ah, waa inaad ahaataa midka ugu horeeya ee aad ku timaado sanduuqa ugu dambeeya 63 laakiin waxaa waajib ku ah inaad si sax ah u timaado sanduuqan.
+Haddii ay dhacdo in ciyaaryahanka uu dhibcaha sarre ka dhigo tirada ka badan isaga oo ka soocaya guusha, waa inuu ku laabtaa sanduuqyo dheeraad ah.
+Horumarinta waxaa sameeyay:
+Quentin Fauré (interface graph) & Jimmy Kipfer (barnaamijka gawaarida)
+Tarjumay:
+Tarjumaadda Google
+Player %s waa %s sanduuqa %s
+Halkan waa liiska ciyaartoyda:

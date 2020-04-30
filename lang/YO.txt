@@ -1,0 +1,44 @@
+﻿Ere ti awọn Gussi ti o rọrun | ISN
+Ise Imulo Gọọsi | ISN %s
+<< Play >>
+<< Awọn aṣayan >>
+<< Quit >>
+<< Pada si akojọ aṣayan akọkọ >>
+<< Wo awọn kirediti >>
+<< Pada si awọn aṣayan >>
+Rẹ?
+O fẹ ede
+Iwọn didun ti orin
+Iwọn didun ti ipa didun ohun
+Ayan nọmba ti awọn ẹrọ orin
+Lati 1 = %s | Lati 2 = %s | Ilọsiwaju ti %s
+Irin-ajo #%s
+<< Bẹrẹ ere >>
+O yipada ti ẹrọ orin %s/%s
+Ẹrọ %s wa ni tubu / daradara
+Bẹrẹ gbigbe ni pawn
+Ṣe awọn eku
+<< Iranlọwọ >>
+Ipo ti dudu?
+Bẹrẹ ere kan ti Gussi:
+Ẹrọ kọọkan jẹ ayipada rẹ nipa fifọ awọn meji meji. Ti o da lori nọmba tabi nọmba ti o gba, ẹrọ orin naa nlọ lati apoti apoti rẹ nipasẹ apoti.
+Awọn ofin ti ere ti Goose wa lati bọwọ fun gẹgẹbi nọmba ti ọkan ṣe tabi apoti ti eyi ṣubu.
+Jẹ ki a ṣe akiyesi awọn ofin wọnyi diẹ:
+☼ Ni ibẹrẹ ere, ti ọkan ninu awọn ẹrọ orin n yika 9 nipasẹ 6 ati 3, o gbọdọ ṣawaju rẹ ni kiakia si nọmba 26. Ti o ba ṣe 9 nipasẹ 4 ati 5, yoo lọ si nọmba 53.
+☼ Ti o ba nigba ere, ẹrọ orin naa ṣubu lori ọga kan, o tun pada si nọmba nọmba ti o ṣe.
+☼ Ti ẹrọ orin ba yipo 6, o gbọdọ lọ si square 12.
+☼ Ẹrọ orin ti o ṣubu lori àpótí 19 ti o baamu si hotẹẹli kan gbọdọ ṣe ayipada rẹ ni igba-meji.
+☼ Ẹrọ orin ti o ṣubu lori apoti 31 ti o baamu si kanga naa yoo duro fun ẹrọ orin miiran lati de nọmba kanna ati ki o gbe ibi rẹ.
+☼ Ẹnikẹni ti o ba ṣubu lori àpótí 42 ti o baamu pẹlu labyrinth yoo pada si apoti 30.
+☼ Ẹniti o lọ ni 52 kikọ si tubu yoo duro fun ẹrọ orin miiran lati wa si nọmba kanna lati lọ kuro.
+☼ Ẹrọ orin ti o lọ si apoti 58 ti o baamu si apoti Iku Ikú yoo bẹrẹ ere naa lati ibẹrẹ
+☼ Ẹnikẹni ti o ba darapo pẹlu ẹrọ orin miiran lori àpótí kanna yoo ni lati lọ si apoti ibi ti ẹrọ orin miiran wa ṣaaju ki o to dun.
+Bawo ni lati ṣe ere ere ti Gussi:
+Lati gba ere ti Gussi, o gbọdọ jẹ akọkọ lati de lori apoti ikẹhin 63 ṣugbọn pẹlu ọranyan lati de si ọtun lori apoti yii.
+Ti o ba jẹ pe ẹrọ orin ṣe idiyele dice julọ ju nọmba awọn alafo lọya ti o ya ara rẹ kuro ni ilọsiwaju, yoo ni lati pada nipasẹ awọn apoti diẹ ẹ sii.
+Ere ti o waye nipasẹ:
+Quentin Fauré (wiwo wiwo) & Jimmy Kipfer (eto eto motor)
+Itumọ nipasẹ:
+Google Translation
+Ẹrọ orin %s jẹ %s ni apoti %s
+Eyi ni ipele awọn ẹrọ orin:

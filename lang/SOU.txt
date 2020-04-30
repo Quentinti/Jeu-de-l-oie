@@ -1,0 +1,44 @@
+﻿Game tina nguseup Basajan | ISN
+dewan game proyék | ISN %s
+<< Play >>
+<< Pilihan >>
+<< Kaluar >>
+<< Balik deui kana ménu utama >>
+<< Témbongkeun sks >>
+<< Balik deui kana Pilihan >>
+Na?
+Pilihan basa
+volume musik
+Volume épék sora
+Milih jumlah pamuter
+Dadu 1 = %s | Dadu 2 = %s | Advancing %s
+Hurungkeun #%s
+<< >> Mimitian kaulinan
+Ieu péngkolan pamuter urang %s/%s
+Aya %s pamuter (s) panjara / ogé
+Mimitian gerak pin
+Gulung ka dadu
+<< Pitulung >>
+modeu poék?
+Mimitian mangrupa kaulinan nguseup:
+Unggal pamuter muterkeun tiap péngkolan ku ngajalankeun 2 dadu. Gumantung kana jumlah atawa inohong diala, pamuter nu ngalir kotak pawn na ku kotak.
+Aya aturan anu hormat game nguseup nurutkeun jumlah anu dijieun atawa pasagi on nu tumiba.
+Hayu urang tingali di jéntré aturan ieu:
+☼ Dina awal patandingan, upami pamaén téh 9 ku 6 jeung 3, anjeunna kedah ngalih pawn na langsung ka nomer 26. Lamun éta 9 ku 4 sarta 5, éta baris buka angka 53.
+☼ Mun salila game, pamuter nu lemahna on soang hiji, nya kitu deui kamajuan dilakukeun dina jumlah titik.
+☼ Lamun pamaén 6, anjeunna kedah buka dina blok 12.
+☼ pamuter The ragrag dina kotak 19 pakait ka hotél kudu lulus péngkolan na keur 2 robah warna ka warna.
+☼ Pamuter anu lemahna dina kotak 31 pakait jeung ogé antosan pamuter sejen ngahontal jumlah anu sarua sarta lumangsung na.
+☼ Saha bae anu tumiba dina kotak 42 pakait jeung labyrinth nu kedah balik deui ka kotak 30.
+☼ Saha baris balik kana 52 panjara saluyu ngantosan pamuter sejen datang ka jumlah anu sarua keur cuti.
+☼ Pamuter anu mana dina kotak centang 58 pakait jeung tangkorak bakal ngamimitian kaulinan ti mimiti
+☼ Hiji anu ngagabung ku pamuter sejen dina kotak sarua baris buka kotak boh pamuter ngadeg saméméh maén.
+Kumaha carana meunang kaulinan tina nguseup:
+Meunang kaulinan tina nguseup, Anjeun kudu jadi kahiji pikeun anjog dina kotak 63 panungtungan tapi kalawan sarat pikeun meunangkeun tumpukan on kotak ieu.
+Mun pamuter ngajadikeun hiji dadu skor luhur batan jumlah spasi misahkeun meunangna, éta baris nyieun sagala buleud tambahan.
+Game dimekarkeun ku:
+Quentin Faure (GUI) & Jimmy Kipfer (program motor)
+Godi Suwarna / mibanda:
+Google Tarjamahan
+Pamuter %s mangrupakeun %sows dina kotak %s
+Di dieu nu rankings sahiji pamaén:

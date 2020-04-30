@@ -1,0 +1,44 @@
+﻿Jogo do ganso simplificado | ISN
+Projeto Goose Game | ISN %s
+<< Play >>
+<< Opções >>
+<< Sair >>
+<< Voltar ao menu principal >>
+<< Veja os créditos >>
+<< Voltar às opções >>
+Dele?
+Escolha da linguagem
+Volume de música
+Volume de efeitos sonoros
+Escolha do número de jogadores
+De 1 = %s | Dado 2 = %s | Progresso de %s
+Tour #%s
+<< Iniciar o jogo >>
+É a vez do jogador %s/%s
+Há %s jogador (es) na prisão / poço
+Comece a mover o peão
+Role os dados
+<< Ajuda >>
+Modo escuro?
+Comece um jogo de ganso:
+Cada jogador joga seu turno jogando os dois dados. Dependendo do número ou do número obtido, o jogador avança sua caixa de peão por caixa.
+Existem regras do jogo de Ganso para respeitar de acordo com o número que se faz ou a caixa em que se cai.
+Vamos dar uma olhada mais de perto nessas regras:
+☼ No começo do jogo, se um dos jogadores jogar 9 por 6 e 3, ele deve avançar seu peão imediatamente para o número 26. Se ele fizer 9 por 4 e 5, ele irá para o número 53.
+☼ Se durante o jogo, o jogador cai em um ganso, ele avança novamente o número de pontos feitos.
+☼ Se um jogador fizer 6, ele deve ir para a casa 12.
+☼ O jogador que cair na casa 19 correspondente a um hotel deve passar seu turno durante 2 turnos.
+☼ O jogador que cair na caixa 31 correspondente ao poço aguardará outro jogador chegar ao mesmo número e ocupar o seu lugar.
+☼ Quem cair na caixa 42 correspondente ao labirinto retornará necessariamente à caixa 30.
+☼ Quem entrar em 52, igualando a prisão, esperará que outro jogador venha ao mesmo número para sair.
+☼ O jogador que vai para a caixa 58 correspondente à caixa Death's Head começará o jogo novamente desde o início
+☼ Quem estiver acompanhado por outro jogador na mesma caixa terá que ir para a caixa onde o outro jogador estava antes de jogar.
+Como ganhar um jogo de ganso:
+Para ganhar um jogo de ganso, você deve ser o primeiro a chegar na última caixa 63, mas com a obrigação de chegar à direita nesta caixa.
+Caso o jogador faça uma pontuação de dados maior que o número de espaços que o separam da vitória, ele terá que recuar em quantas caixas adicionais.
+Jogo desenvolvido por:
+Quentin Fauré (interface gráfica) e Jimmy Kipfer (programa motor)
+Traduzido por:
+Tradução do Google
+O jogador %s é %s na caixa %s
+Aqui está o ranking dos jogadores:

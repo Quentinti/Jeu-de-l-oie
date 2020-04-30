@@ -1,0 +1,44 @@
+﻿Lalao ny goose tsotra | ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Options >>
+<< Quit >>
+<< Miverina any amin'ny sakafo lehibe >>
+<< Jereo ny credits >>
+<< Back to options >>
+Ny?
+Safidin'ny teny
+Volana mozika
+Vokatry ny feo heno
+Safidin'ny isan'ny mpilalao
+De 1 = %s | Dice 2 = %s | Fandrosoana ny %s
+Tour #%s
+<< Manomboka ny lalao >>
+Io ilay turnarena %s/%s
+Misy mpilalao %s / am-ponja
+Manomboka mihetsika ny pao
+Raiso ny dity
+<< Help >>
+Maoderina maoderina?
+Manomboa lalao Goose:
+Ny mpilalao tsirairay dia mamela ny anjarany amin'ny fanipazana ireo zo roa. Arakaraky ny isa na ny isa azony dia alefan'ilay mpilalao amin'ny boaty ilay boaty.
+Misy fitsipika momba ny lalao Goose hajaina arakaraka ny isa iray na ny boaty iray izay mianjera.
+Andao hijery akaiky ireo fitsipika ireo:
+☼ Rehefa manomboka ny lalao, raha iray amin'ny mpilalao ny 9 amin'ny 6 sy 3, dia tokony ampitombo haingana avy hatrany ny paoziny amin'ny isa 26. Raha manao ny 9 amin'ny 4 sy 5 izy, dia handeha amin'ny isa 53 izy.
+☼ Raha toa ka tafiditra ao amin'ny goose ny mpilalao mandritra ny lalao, dia manohy ny isa indray izy.
+☼ Raha misy mpilalao 6 dia tsy maintsy mandeha amin'ny 12.
+☼ Ny mpilalao izay latsaka amin'ny boaty 19 mifanaraka amin'ny hotely iray dia tsy maintsy mandalo ny anjarany mandritra ny 2 taonina.
+☼ Ny mpilalao izay latsaka amin'ny boaty 31 mifanaraka amin'ilay lava dia miandry mpilalao iray hafa tonga amin'ny isa iray ihany ary handray ny toerany.
+☼ Ireo izay latsaka amin'ny sakana 42 mifanandrify amin'ny labyrinth dia tsy maintsy averina ao anatin'ny boaty 30.
+☼ Izay mandehandeha amin'ny 52 ndray an-tranomaizina dia hiandry mpilalao iray hafa tonga amin'ny isa mitovy ihany hialàna.
+☼ Ny mpilalao mandeha amin'ny baoritra 58 mifanaraka amin'ilay boaty Death Head dia hanomboka ny lalao hatrany am-piandohana
+☼ Na iza na iza miaraka amin'ny mpilalao iray hafa ao anaty boaty iray dia tsy maintsy mandeha any amin'ilay boaty izay nisy ilay mpilalao taloha alohan'ny hilalao.
+Ahoana no handresy ny lalao Goose:
+Raha te hahazo ny lalao Goose ianao, dia tokony ho ianao no voalohany tonga ao amin'ny boaty farany 63 fa miaraka amin'ny adidy hiditra ato amin'ity boaty ity.
+Raha toa ny mpilalao manamboatra dice avo kokoa noho ny isan'ny toerana manasaraka azy amin'ny fandresena, dia tsy maintsy miverina amin'ny aloka fanampiny izy.
+Lalao novokarin'ny:
+Quentin Fauré (interface graphique) & Jimmy Kipfer (programa motera)
+Translated by:
+Google Translation
+Player %s dia %s
+Ireto ny fizotry ny mpilalao:

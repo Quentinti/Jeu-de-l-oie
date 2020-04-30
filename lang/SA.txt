@@ -1,0 +1,44 @@
+﻿Taaloga o le kulupu faigofie | ISN
+Polokalama Taʻaloga Goose | ISN %s
+<< Taalo >>
+<< Filifiliga >>
+<< Quit >>
+<< Toe foʻi i le autu autu >>
+<< Tagai i faʻamaumauga >>
+<< Toe foʻi i filifiliga >>
+Lana?
+Filifiliga o le gagana
+Volume o musika
+Pene o lagona lelei
+Filifiliga o le numera o tagata taaalo
+De 1 = %s | Dice 2 = %s | Alualu i luma o %s
+Suʻesuʻe #%s
+<< Amata le taaloga >>
+O le pine o le tagata %s/%s
+E i ai le %s player (s) i le falepuipui / lelei
+Amata amata le vevela
+Faʻasolo le togi
+<< Fesoasoani >>
+Pogisa paʻu?
+Amata se taaloga o Goose:
+O taʻalo taʻitasi e taʻalo lona taimi e ala i le togiina o le lua. E faʻatatau i le numera poʻo le numera na maua, e faʻateleina e le tagata taalo lana pusa paʻu i le pusa.
+E i ai tulafono o le taaloga o Goose e faʻaaloalo e tusa ai ma le numera o loʻo faia e le tasi pe o le pusa lea e pa'ū ai.
+Seʻio tatou tilotilo totoa i nei tulafono:
+☼ I le amataga o le taaloga, afai e taamilo se tasi o le au taaalo i le 9 i le 6 ma le 3, e tatau ona ia faʻaavanoa lana pine i le numera 26. Afai e 9 i le 4 ma le 5, o le a alu i le numera 53.
+☼ Afai i le taimi o le taaloga, e pa'ū le tagata taalo i se kusi, ona toe faʻafoʻi lea o le numera o mea na faia.
+☼ Afai e taʻavale se tagata taʻavale 6, e tatau ona alu i le sikuea 12.
+☼ O le tagata taalo e pau i luga o le pusa 19 e fetaui i se faletalimalo e tatau ona pasia lona avanoa i le 2 avanoa.
+☼ O le tagata taalo e pa'ū i luga o le pusa 31 e fetaui ma le vaieli o le a faatali mo se isi tagata taalo e taunuu i le numera tutusa ma ave lona nofoaga.
+☼ Soo se tasi e pa'ū i luga o le pusa 42 e tutusa ma le labyrinth o le a toe foi i le pusa 30.
+☼ O ai e alu i le 52 e fetaui ma le falepuipui o le a faatali mo se isi tagata taalo e sau i le numera tutusa e alu.
+☼ O le tagata taalo e alu i le pusa 58 e tutusa ma le pusa O le Ulu o le Maliu o le a toe amata le taaloga mai le amataga
+☼ Soʻo se tasi e faʻafeiloaʻi e se isi tagata taalo i le atigi pusa e tasi o le a tatau ona alu i le pusa o le isi tagata taalo ae leʻi taʻalo.
+Auala e manumalo ai i se taaloga o Goose:
+Ina ia manumalo i se taaloga o Goose, e tatau ona e muamua ona taunuu i le pusa mulimuli 63 ae ia i ai le noataga e taunuu saʻo i lenei atigipusa.
+I le tulaga e faia e le tagata taʻalo le sikoa sikoa maualuga nai lo le numera o avanoa e vavaeeseina ai o ia mai le manumalo, e tatau ona toe foʻi i tua e tele atigipusa.
+Taaloga na atiae e:
+Quentin Fauré (ata faʻataʻitaʻi) & Jimmy Kipfer (polokalama o masini)
+Faʻaliliuina e:
+Google Translation
+Le '%sau %s se i le pusa %s
+O le tulaga lenei o le au taaalo:

@@ -1,0 +1,44 @@
+﻿Gra w uproszczoną gęś | ISN
+Goose Game Project | ISN %s
+<< Graj >>
+<< Opcje >>
+<< Zakończ >>
+<< Powrót do głównego menu >>
+<< Zobacz kredyty >>
+<< Powrót do opcji >>
+Jego?
+Wybór języka
+Tom muzyki
+Głośność efektów dźwiękowych
+Wybór liczby graczy
+De 1 = %s | Kości 2 = %s | Postęp %s
+Wycieczka #%s
+<< Rozpocznij grę >>
+To kolejność gracza %s/%s
+W więzieniu jest %s graczy / studni
+Zacznij przesuwać pionka
+Rzuć kostką
+<< Pomoc >>
+Tryb ciemny?
+Rozpocznij grę w Goose:
+Każdy gracz zagrywa swoją turę, rzucając dwie kości. W zależności od liczby lub uzyskanej liczby gracz przesuwa swoje pole pionka o pudełko.
+Istnieją zasady gry Gęsi, które mają być respektowane zgodnie z liczbą, którą się tworzy lub pudełkiem, na którym się upada.
+Przyjrzyjmy się bliżej tym zasadom:
+☼ Na początku gry, jeśli jeden z graczy rzuci 9 na 6 i 3, musi natychmiast przesunąć swojego pionka do liczby 26. Jeśli zrobi 9 przez 4 i 5, przejdzie do liczby 53.
+☼ Jeśli podczas gry gracz padnie na gęś, ponownie przesuwa liczbę wykonanych punktów.
+Player Jeśli gracz rzuca 6, musi przejść na pole 12.
+Player Gracz, który spadnie na pole 19 odpowiadające hotelowi, musi przejść swoją turę przez 2 tury.
+Player Gracz, który spadnie na pole 31 odpowiadające studni, będzie czekał, aż inny gracz dotrze na ten sam numer i zajmie jego miejsce.
+Ver Kto spadnie na pudełko 42 odpowiadające labiryntowi, koniecznie powróci do pola 30.
+☼ Kto trafi w 52 pasujące do więzienia, zaczeka, aż inny gracz przyjdzie pod ten sam numer, aby wyjść.
+Player Gracz, który przejdzie do pola 58 odpowiadającego polu Śmierć, rozpocznie grę od początku
+By Kto dołączy do innego gracza na tym samym polu, będzie musiał przejść do pudełka, w którym znajdował się drugi gracz, zanim zagra.
+Jak wygrać grę w Goose:
+Aby wygrać grę w Goose, musisz być pierwszym, który przybędzie na ostatnie pole 63, ale z obowiązkiem przybycia na to pole.
+W przypadku, gdy gracz wykona kostkę wyższą niż liczba pól oddzielających go od zwycięstwa, będzie musiał cofnąć się o tyle dodatkowych pól.
+Gra opracowana przez:
+Quentin Fauré (interfejs graficzny) i Jimmy Kipfer (program motoryczny)
+Przetłumaczone przez:
+Tłumaczenie Google
+Gracz %s jest %s w polu %s
+Oto ranking graczy:

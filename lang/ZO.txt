@@ -1,0 +1,44 @@
+﻿Umdlalo wehansi elula | ISN
+I-Goose Game Project | ISN %s
+<< Dlala >>
+<< Izinketho >>
+<< Yeka >>
+<< Buyela emenyu enkulu >>
+<< Bona izikweletu >>
+<< Buyela kokukhethwa kukho >>
+Wakhe?
+Ukukhetha ulimi
+Umqulu womculo
+Umqulu wemisindo
+Ukukhethwa kwenombolo yabadlali
+I-1 = %s | Idayisi 2 = %s | Intuthuko ye- %s
+Ukuvakasha #%s
+<< Qalisa umdlalo >>
+Yinguquko yomdlali %s/%s
+Kunomdlali we- %s ejele / kahle
+Qala ukuhambisa i-pawn
+Roll the dice
+<< Usizo >>
+Imodi emnyama?
+Qala umdlalo we-Goose:
+Umdlali ngamunye udlala ijika lakhe ngokuphonsa amadayisi amabili. Kuye ngenombolo noma inombolo etholakalayo, umdlali uqhubekela phambili ebhokisini lakhe lepayipi ngebhokisi.
+Kukhona imithetho yomdlalo we-Goose ukuhlonipha ngokusho kwenombolo umuntu akwenzayo noma ibhokisi eliwela ngalo.
+Ake sihlolisise le mithetho:
+☼ Ekuqaleni komdlalo, uma omunye wabadlali eba ngu-9 ngo-6 no-3, kumele aqhubekele phambili isikhonkwane sakhe kuze kube nombolo 26. Uma enza 9 ngo-4 no-5, uzoya kwinombolo 53.
+☼ Uma phakathi nomdlalo, umdlali wehla ku-goose, uphinde athuthukise inani lamaphoyinti akwenzile.
+☼ Uma umdlali edonsa u-6, kumele ahambe esikwelethini 12.
+☼ Umdlali owela ebhokisini 19 elihambelana nehhotela kufanele adlulise isikhathi sakhe ngesikhathi sokuguquka kwe-2.
+☼ Umdlali owela ebhokisini 31 elihambisana nomthombo uzolindela omunye umdlali ukuba afike enombolweni efanayo futhi athathe indawo yakhe.
+☼ Noma ubani owela ebhokisini 42 elihambisana ne-labyrinth uyobuyela ebhokisini 30.
+☼ Ngubani ongena ku-52 afanelana nejele uzolindela omunye umdlali ukuba eze enombolweni efanayo ukuze ashiye.
+☼ Umdlali oya ebhokisini 58 ehambisana nebhokisi I-Death's Head izoqala umdlalo futhi kusukela ekuqaleni
+☼ Noma ngubani ojoyina omunye umdlali ebhokisini elifanayo kuzodingeka aye ebhokisini lapho omunye umdlali ngaphambi kokudlala.
+Indlela yokuwina umdlalo we-Goose:
+Ukuwina umdlalo we-Goose, kufanele ube ngowokuqala ukufika ebhokisini lokugcina 63 kepha unesibopho sokufika ngqo kuleli bhokisi.
+Uma kwenzeka umdlali enza amaphuzu edayisi aphezulu kunani lezikhala ezihlukanisa naye ekunqobeni, kuzodingeka abuyele emuva ngamabhokisi amaningi.
+Igeyimu eyenziwe ngu:
+U-Quentin Fauré (isikhombimsebenzisi esibonakalayo) & Jimmy Kipfer (uhlelo lwezimoto)
+Kuhunyushwe ngu:
+Google Translation
+Umdlali %s ngu %s ebhokisini %s
+Nasi simo sabadlali:

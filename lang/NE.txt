@@ -1,0 +1,44 @@
+﻿Spel van de vereenvoudigde gans | ISN
+Goose Game Project | ISN %s
+<< Afspelen >>
+<< Opties >>
+<< Quit >>
+<< Terug naar het hoofdmenu >>
+<< Zie de credits >>
+<< Terug naar opties >>
+Zijn ?
+Keuze van taal
+Volume van muziek
+Volume van geluidseffecten
+Keuze van het aantal spelers
+De 1 = %s | Dice 2 = %s | Voortgang van %s
+Tour #%s
+<< Start het spel >>
+Het is de beurt van de speler %s/%s
+Er zijn %s speler (s) in de gevangenis / bron
+Begin met het verplaatsen van de pion
+Rol de dobbelstenen
+<< Help >>
+Dark-modus?
+Start een potje Goose:
+Elke speler speelt zijn beurt door de twee dobbelstenen te gooien. Afhankelijk van het aantal of het aantal dat is verkregen, verplaatst de speler zijn pion per doos.
+Er zijn regels voor het spel Gans om te respecteren volgens het nummer dat je maakt of de doos waarop je valt.
+Laten we deze regels eens nader bekijken:
+☼ Aan het begin van het spel, als een van de spelers 9 bij 6 en 3 gooit, moet hij zijn pion onmiddellijk naar het getal 26 verplaatsen. Als hij 9 bij 4 en 5 doet, gaat hij naar nummer 53.
+☼ Als tijdens het spel de speler op een gans valt, gaat hij verder met het aantal gemaakte punten.
+☼ Als een speler 6 gooit, moet hij naar veld 12 gaan.
+☼ De speler die in vak 19 op een hotel valt, moet in 2 beurten zijn beurt passeren.
+☼ De speler die op vak 31 valt die overeenkomt met de put, zal wachten totdat een andere speler op hetzelfde nummer komt en zijn plaats innemen.
+☼ Wie op box 42 valt die overeenkomt met het labyrint, zal noodzakelijkerwijs terugkeren naar box 30.
+☼ Wie 52 in de gevangenis past, wacht tot een andere speler op hetzelfde nummer komt om te vertrekken.
+☼ De speler die naar vak 58 gaat die overeenkomt met het vak Death's Head start de game opnieuw vanaf het begin
+☼ Degene die door een andere speler in dezelfde doos wordt vergezeld, moet naar de doos gaan waar de andere speler was voordat hij speelde.
+Hoe een Gansspel te winnen:
+Om een ​​Gansspel te winnen, moet je als eerste zijn aangekomen in het laatste vak 63, maar met de verplichting om rechtstreeks op deze doos aan te komen.
+In het geval dat de speler een dobbelsteen scoort die hoger is dan het aantal spaties dat hem scheidt van de overwinning, moet hij teruggaan met zoveel extra vakken.
+Spel ontwikkeld door:
+Quentin Fauré (grafische interface) & Jimmy Kipfer (motorprogramma)
+Vertaald door:
+Google Vertaling
+Speler %s is %seme in vak %s
+Hier is de rangorde van de spelers:

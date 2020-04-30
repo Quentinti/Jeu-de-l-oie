@@ -1,0 +1,44 @@
+﻿Logħba tal-wiżż simplifikat ISN
+Proġett tal-Logħob tal-Wiżż ISN %s
+<< Play >>
+<< Għażliet >>
+<< Nieqaf >>
+<< Lura għall-menu prinċipali >>
+<< Ara l-krediti >>
+<< Lura għall-għażliet >>
+Tiegħu?
+Għażla tal-lingwa
+Volum ta 'mużika
+Volum ta 'effetti tal-ħoss
+Għażla tan-numru ta 'plejers
+De 1 = %s | Dice 2 = %s | Progress ta ' %s
+Tour #%s
+<< Ibda l-logħba >>
+Hu d-dawra tal-plejer %s/%s
+Hemm %s plejer (i) fil-ħabs / bir
+Ibda ċċaqlaq il-pawn
+Irrombla d-dice
+<< Għajnuna >>
+Mod skur?
+Ibda logħba ta 'Goose:
+Kull plejer jilgħab dawra tiegħu billi jitfa ż-żewġ dadi. Skont in-numru jew in-numru miksub, il-plejer javvanza l-kaxxa tal-pawn tiegħu b'kaxxa.
+Hemm regoli tal-logħba ta 'Goose biex tirrispetta skond in-numru li wieħed jagħmel jew il-kaxxa li fuqha wieħed jaqa'.
+Ejja nħarsu aktar mill-qrib lejn dawn ir-regoli:
+☼ Fil-bidu tal-logħba, jekk wieħed mill-plejers jdur 9 minn 6 u 3, huwa għandu javvanza bil-pawn tiegħu immedjatament għan-numru 26. Jekk jagħmel 9 b'4 u 5, huwa jmur għan-numru 53.
+☼ Jekk matul il-logħba, il-plejer jaqa 'fuq wiżż, jerġa' javvanza l-għadd ta 'punti li jkunu saru.
+☼ Jekk plejer jirreklama 6, huwa għandu jmur għal kwadru 12.
+☼ Il-plejer li jaqa 'fuq il-kaxxa 19 li tikkorrispondi għal lukanda għandu jgħaddi min-naħa tiegħu waqt żewġ dawriet.
+☼ Il-plejer li jaqa 'fuq il-kaxxa 31 li jikkorrispondu għall-bir se jistenna li plejer ieħor jasal għall-istess numru u jieħu postu.
+☼ Kull min jaqa 'fuq il-kaxxa 42 li tikkorrispondi għal-labirint għandu neċessarjament jirritorna għall-kaxxa 30.
+☼ Min imur fit-52 li jaqbel mal-ħabs se jistenna li plejer ieħor jasal għall-istess numru biex jitlaq.
+☼ Il-plejer li jmur fil-kaxxa 58 li jikkorrispondi għall-kaxxa Death's Head jerġa 'jibda l-logħba mill-bidu
+☼ Kull min jingħaqad ma 'plejer ieħor fuq l-istess kaxxa jkollu jmur fil-kaxxa fejn il-plejer l-ieħor kien qabel il-logħob.
+Kif tirbaħ logħba ta 'Goose:
+Biex tirbaħ logħba ta 'Goose, int trid tkun l-ewwel li waslet fl-aħħar kaxxa 63 imma bl-obbligu li tasal dritt fuq din il-kaxxa.
+Fil-każ li l-plejer jagħmel punteġġ dice ogħla min-numru ta 'spazji li jisseparawh mir-rebħa, hu jkollu jgħaddi lura mill-ikbar kaxxi addizzjonali.
+Logħba żviluppata minn:
+Quentin Fauré (interface grafiku) & Jimmy Kipfer (programm bil-mutur)
+Tradott minn:
+Traduzzjoni Google
+Player %s huwa %seme fil-kaxxa %s
+Hawn hu l-klassifika tal-plejers:

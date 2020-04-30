@@ -1,0 +1,44 @@
+﻿Spill av den forenklede gåsen | ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Valg >>
+<< Avslutt >>
+<< Tilbake til hovedmenyen >>
+<< Se studiepoeng >>
+<< Tilbake til valg >>
+Hans?
+Valg av språk
+Volum av musikk
+Volum av lydeffekter
+Valg av antall spillere
+De 1 = %s | Terninger 2 = %s | Fremgang av %s
+Tour #%s
+<< Start spillet >>
+Det er spillers tur %s/%s
+Det er %s spiller (e) i fengsel / brønn
+Begynn å flytte bonden
+Rull terningene
+<< Hjelp >>
+Mørk modus?
+Start et spill Goose:
+Hver spiller spiller sin tur ved å kaste de to terningene. Avhengig av nummeret eller nummeret som er oppnådd, forflytter spilleren sin bondeboks med boks.
+Det er regler for spillet Goose å respektere i henhold til nummeret som man lager eller boksen som man faller på.
+La oss ta en nærmere titt på disse reglene:
+☼ Ved starten av spillet, hvis en av spillerne ruller 9 til 6 og 3, må han straks legge bonden sin til nummer 26. Hvis han gjør 9 ved 4 og 5, går han til nummer 53.
+☼ Hvis spilleren faller på en gåse, går han igjen på antall poeng som gjøres.
+☼ Hvis en spiller ruller 6, må han gå til firkant 12.
+☼ Spilleren som faller på boks 19 som svarer til et hotell må passere sin tur i løpet av 2 svinger.
+☼ Spilleren som faller på boks 31 som svarer til brønnen, venter på at en annen spiller kommer til samme nummer og tar plass.
+☼ Den som faller på boks 42 som svarer til labyrinten, kommer nødvendigvis tilbake til boks 30.
+☼ Hvem går i 52 som matcher fengselet, venter på at en annen spiller kommer til samme nummer som å forlate.
+☼ Spilleren som går til boks 58 som svarer til boksen Death's Head, starter spillet igjen fra begynnelsen
+☼ Den som er med på en annen spiller i samme boks, må gå til boksen der den andre spilleren var før han spilte.
+Hvordan vinne et spill med gås:
+For å vinne et spill med gås, må du være den første som kommer til den siste boksen 63, men med forpliktelsen til å ankomme rett på denne boksen.
+Hvis spilleren gjør en terningspor høyere enn antall mellomrom som skiller ham fra seieren, må han bevege seg tilbake med så mange flere bokser.
+Spill utviklet av:
+Quentin Fauré (grafisk grensesnitt) og Jimmy Kipfer (motorprogram)
+Oversatt av:
+Google Oversettelse
+Spiller %s er %seme i boks %s
+Her er rangering av spillerne:

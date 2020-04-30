@@ -1,0 +1,44 @@
+﻿Soddalashtirilgan qazish o'yinlari ISN
+G'oziy o'yin loyihasi ISN %s
+<< Play >>
+<< Tanlovlar >>
+<< Chiqish >>
+<< Asosiy menyuga qaytish >>
+<< Kreditlarni ko'rish >>
+<< Optsiyaga qaytish >>
+Uning o'zi?
+Tilni tanlash
+Musiqaning hajmi
+Ovoz effektlari hajmi
+O'yinchilar sonini tanlash
+Ham 1 = %s | Zar 2 = %s | %s darajasi
+Sayr #%s
+<< O'yinni boshlang >>
+Bu %s/%s futbolchi turidir
+Turmada / sardagi %s futbolchi mavjud
+Piyonni ko'chirishni boshlang
+Zarlarni silang
+<< Yordam >>
+Qorong'i rejim?
+Goose o'yinini boshlang:
+Har bir futbolchi ikkita zarni otib, o'z navbatini o'ynaydi. Qabul qilingan raqamga yoki raqamga qarab, o'yinchi qutiga qutiga qutisiga o'tadi.
+Goose o'yinining qoidalari hurmatga sazovordir yoki qaysi qutiga tushadigan quti bor.
+Keling, bu qoidalarni ko'rib chiqaylik:
+☼ O'yin boshlanishida, agar o'yinchilarning biri 9 va 6-raqamni egallagan bo'lsa, u darhol uning piyonini 26-raqamga ko'tarishi kerak. Agar u 9 va 4-raqamni aniqlasa, 53 raqamiga o'tadi.
+☼ Agar o'yin davomida o'yinchi gozaga tushib qolsa, u ochkolarni yana oshiradi.
+☼ Agar o'yinchi 6 ta o'ynasa, u kvadrat 12 ga o'tishi kerak.
+☼ Mehmonxonaga mos keladigan 19 qutiga tushgan futbolchi o'z navbatini 2 tur davomida o'tkazishi kerak.
+☼ Quduqqa mos keladigan qutiga 31 tushgan futbolchi boshqa o'yinchini o'sha raqamga yetib kelishini kutib turadi.
+☼ Kimki labirintga mos keladigan 42-gachasi qutiga tushsa, 30-qutiga qaytishi kerak.
+☼ Zindon bilan taalukli 52 kishi boshqa o'yinchini tark etish uchun bir xil raqamga kelishini kutadi.
+☼ 58-qutiga o'lim boshiga to'g'ri keladigan futbolchi o'yinni boshidan boshlab qayta boshlaydi
+☼ Yana bir o'yinchi bilan bir xil qutidagi ishtirok etadigan boshqa futbolchi o'ynashdan oldin o'ynagan qutiga o'tish kerak.
+Goose o'yinini qanday yutish mumkin:
+Goose o'yinini yutib olish uchun siz 63-sonli qutiga birinchi bo'lib kelgansiz, ammo bu qutiga kelib chiqishingiz kerak.
+Agar o'yinchi zaxiradan g'alaba qozonadigan bo'shliqlar sonidan yuqori zarlarga ega bo'lsa, u ko'p qo'shimcha qutilarga ega bo'lishi kerak.
+O'yin tomonidan ishlab chiqilgan:
+Quentin Fauré (grafik interfeys) va Jimmy Kipfer (vosita dasturi)
+Tarjima qilingan:
+Google tarjimasi
+Player %s bir %s qutisidagi %s
+O'yinchilar ro'yxati:

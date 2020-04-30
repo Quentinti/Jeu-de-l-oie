@@ -1,0 +1,44 @@
+﻿Igra poenostavljene gosi | ISN
+Projekt Goose Game | ISN %s
+<< Predvajaj >>
+<< Možnosti >>
+<< Končaj >>
+<< Nazaj na glavni meni >>
+<< Glej kredite >>
+<< Nazaj na možnosti >>
+Njegova?
+Izbira jezika
+Glasba
+Obseg zvočnih učinkov
+Izbira števila igralcev
+De 1 = %s | Kocka 2 = %s | Napredek %s
+Ogled #%s
+<< Začni igro >>
+To je igralka na vrsti %s/%s
+V zaporu / vrtcu je %s igralec
+Začni premikati peš
+Zavrtite kocke
+<< Pomoč >>
+Temni način?
+Začni igro Goose:
+Vsak igralec igra na vrsto tako, da vrne dve kocki. Odvisno od števila ali številke, ki jo dobite, igralec napreduje svojo mizico po škatli.
+Obstajajo pravila igre Goose, da jih spoštujete glede na število, ki ga naredite, ali na polje, na katerem pade.
+Oglejmo si podrobneje ta pravila:
+Of Na začetku tekme, če eden od igralcev zavrti 9 proti 6 in 3, mora svoj pešec takoj premakniti na številko 26. Če naredi 9 s 4 in 5, bo šel na številko 53.
+During Če med igro igralec pade na gos, ponovno napreduje število točk.
+Roll Če igralec zavije 6, mora iti na kvadrat 12.
+Who Igralec, ki pade na polje 19, ki ustreza hotelu, mora v 2 obratih prestopiti zavoj.
+Who Igralec, ki pade na polje 31, ki ustreza vodnjaku, bo počakal na drugega igralca, da pride na isto številko in prevzame njegovo mesto.
+☼ Kdor pade na polje 42, ki ustreza labirintu, se bo nujno vrnil v polje 30.
+Goes Kdo gre v 52 ujemanje z zaporom bo čakal, da drug igralec pride na isto številko, da odide.
+Who Igralec, ki gre v polje 58, ki ustreza polju Smrtna glava, bo spet začel igro od začetka
+Ever Kdor se pridruži drugemu igralcu na istem polju, bo moral iti v polje, kjer je bil drugi igralec pred igranjem.
+Kako zmagati igro goske:
+Če želite zmagati v igri Goose, morate biti prvi, ki pride na zadnjo polje 63, vendar morate obvezno prispeti na to polje.
+Če igralec naredi kocke višje od števila, ki ga loči od zmage, se bo moral premakniti nazaj za toliko dodatnih polj.
+Igra, ki jo je razvil:
+Quentin Fauré (grafični vmesnik) in Jimmy Kipfer (motorni program)
+Prevedeno z:
+Google Prevajanje
+Predvajalnik %s je %s v polju %s
+Tu je razvrstitev igralcev:

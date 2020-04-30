@@ -1,0 +1,44 @@
+﻿Mutambo wemhashe iri nyore | ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Options >>
+<< Quit >>
+<< Dzokera kumenyu huru >>
+<< See the credits >>
+<< Dzokera kune dzimwe nzira >>
+Wake?
+Kusarudza mutauro
+Bhuku remimhanzi
+Bhuku remishumo
+Kusarudzwa kwenhamba yevatambi
+De 1 = %s | Dice 2 =  %s | Kufambira mberi kwe %s
+Kuratidzwa #%s
+<< Start the game >>
+Ndiyo mutambi wemutambi %s/%s
+Kune% s mutambi (s) mujeri / zvakanaka
+Tanga kutamisa pawn
+Tora dice
+<< Kubatsira >>
+Dark mode?
+Tanga mutambo we Goose:
+Mutambi mumwe nomumwe anotamba nguva yake nekukandira madhidhi maviri. Zvichienderana nenhamba kana nhamba yakawanikwa, mutambi anofambira mberi pawn box nebhokisi.
+Pane mitemo yemutambo weGoose yekuremekedza maererano nenhamba iyo munhu anoita kana bhokisi iro rinowira.
+Ngatinyatsoongorora mitemo iyi:
+☼ Pakutanga kwemutambo, kana mumwe wevatambi achikwira 9 ne6 uye 3, anofanira kutora chikamu chake pakarepo kusvika kuhamba 26. Kana akaita 9 ne4 ne5, achaenda kunhamba 53.
+☼ Kana panguva yemutambo, mutambi anowira pamhara, anofambisa zvakare nhamba yezvikamu zvakaitwa.
+☼ Kana mutambi anofambisa 6, anofanira kuenda kumakero 12.
+☼ Mutambi anowira pabhokisi 19 inofanirwa nehotera anofanira kupfuudza nguva yake panguva 2 kutendeuka.
+☼ Mutambi anowira pabhokisi 31 inofanana nechesi achamirira mumwe mutambi kuti asvike nhamba imwechete uye atore nzvimbo yake.
+☼ Ani naani anowira pabhokisi 42 inofanana nelabyrinth ichadzoka kubhokisi 30.
+☼ Ndiani anoenda mu 52 anofanana nejeri anomirira mumwe mutambi kuti auye nhamba imwe chete kuti aende.
+☼ Mutambi anoenda kubhokisi 58 inofanirwa nebhokisi Death's Head inotanga mutambo zvakare kubva pakutanga
+☼ Ani naani akabatanidzwa nemumwe mutambi ari mubhokisi rimwe chete achaenda kunebhokisi apo mumwe mutambi aive asati atamba.
+Nzira yekukunda mutambo weGoose:
+Kuti uwane mutambo weGoose, iwe unofanira kuva wekutanga kusvika pabhokisi rekupedzisira 63 asi nechisungo chekusvika pane bhokisi rino.
+Kana mutambi akaita dice chikwata chapamusoro kupfuura nhamba yezvikamu zvakamuparadzanisa kubva mukukunda, achafanira kudzoka shure nemamwe mabhokisi akawanda.
+Mutambo wakagadzirwa ne:
+Quentin Fauré (graphical interface) naJimmy Kipfer (chirongwa chemoto)
+Rakashandurwa na:
+Google Translation
+Mutambi %s is %s mubhokisi %s
+Heino nheyo yevatambi:

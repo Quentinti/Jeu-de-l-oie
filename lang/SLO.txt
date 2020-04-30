@@ -1,0 +1,44 @@
+﻿Hra zjednodušenej husi ISN
+Goose Game Project | ISN %s
+<< Prehrať >>
+<< Možnosti >>
+<< Ukončiť >>
+<< Späť do hlavného menu >>
+<< Pozri kredity >>
+<< Späť na možnosti >>
+Jeho?
+Výber jazyka
+Objem hudby
+Objem zvukových efektov
+Výber počtu hráčov
+Kocky 1 = %s | Kocky 2 = %s | Priebeh %s
+Prehliadka #%s
+<< Spustiť hru >>
+Je to ťah hráča %s/%s
+Existujú %s hráči vo väzení / well
+Začnite pohybovať pešiakom
+Hodiť kocky
+<< Pomocník >>
+Temný režim?
+Spustiť hru na Goose:
+Každý hráč hrá svoj ťah tým, že hodí dve kocky. V závislosti od čísla alebo získaného čísla hráč postúpi boxom pešiakom po boxe.
+Existujú pravidlá hry Goose rešpektovať podľa počtu, ktorý robí, alebo box, na ktorom jeden padá.
+Pozrime sa bližšie na tieto pravidlá:
+☼ Na začiatku hry, ak jeden z hráčov hodí 9 o 6 a 3, musí okamžite postúpiť pešiaka na číslo 26. Ak robí 9 a 4 a 5, pôjde na číslo 53.
+☼ Ak počas hry hráč spadne na husi, znova postúpi počet uskutočnených bodov.
+Player Ak hráč hodí 6, musí ísť na štvorec 12.
+☼ Hráč, ktorý spadne do kolónky 19 zodpovedajúcej hotelu, musí prejsť svoj ťah počas 2 otáčok.
+Player Hráč, ktorý spadne do kolónky 31, ktorá zodpovedá jamke, bude čakať, kým iný hráč dorazí na rovnaké číslo a zaujme jeho miesto.
+☼ Ten, kto spadne do kolónky 42, ktorá zodpovedá labyrintu, sa nevyhnutne vráti do kolónky 30.
+☼ Kto ide do 52, pričom väzenie bude čakať, kým iný hráč príde na rovnaké číslo a odíde.
+☼ Hráč, ktorý ide do boxu 58, zodpovedajúci boxu Death's Head, začne hru znovu od začiatku
+By Každý, kto sa pripojí k inému hráčovi na tom istom boxe, bude musieť prejsť do boxu, kde predtým hral druhý hráč.
+Ako vyhrať hru Goose:
+Ak chcete vyhrať hru Goose, musíte byť prvý, kto príde na poslednú kolónku 63, ale s povinnosťou doraziť priamo do tohto poľa.
+V prípade, že hráč urobí skóre kocky vyššie ako počet priestorov, ktoré ho oddeľujú od víťazstva, bude sa musieť vrátiť o toľko ďalších políčok.
+Hra vyvinutá:
+Quentin Fauré (grafické rozhranie) & Jimmy Kipfer (motorový program)
+Preložil:
+Preklad Google
+Hráč %s je %s v poli %s
+Tu je poradie hráčov:

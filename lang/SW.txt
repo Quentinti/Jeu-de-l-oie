@@ -1,0 +1,44 @@
+﻿Mchezo wa kijiko kilichorahisishwa | ISN
+Mradi wa mchezo wa Goose | ISN %s
+<< Play >>
+<< Chaguzi >>
+<< Acha >>
+<< Rudi kwenye orodha kuu >>
+<< Angalia credits >>
+<< Rejea chaguo >>
+Wake?
+Uchaguzi wa lugha
+Muziki wa muziki
+Kiasi cha athari za sauti
+Uchaguzi wa idadi ya wachezaji
+De 1 = %s | Dice 2 = %s | Maendeleo ya %s
+Ziara #%s
+<< Anza mchezo >>
+Ni upande wa mchezaji %s/%s
+Kuna mchezaji %s gerezani / vizuri
+Anza kusonga mbele
+Piga kete
+<< Msaada >>
+Hali ya giza?
+Anza mchezo wa Goose:
+Kila mchezaji anacheza upande wake kwa kutupa kete mbili. Kulingana na nambari au nambari iliyopatikana, mchezaji huendeleza sanduku la pawn na sanduku.
+Kuna sheria za mchezo wa Goose kuheshimu kwa mujibu wa idadi ambayo mtu hufanya au sanduku ambalo linaanguka.
+Hebu tuangalie kwa uangalifu sheria hizi:
+Wakati wa mwanzo wa mchezo, kama mmoja wa wachezaji anaendelea 9 hadi 6 na 3, lazima apandishe kamba yake mara moja hadi namba 26. Ikiwa anafanya 9 hadi 4 na 5, ataenda namba 53.
+☼ Ikiwa wakati wa mchezo, mchezaji huanguka juu ya goose, anaongeza tena idadi ya pointi zilizofanywa.
+☼ Kama mchezaji anapoendesha 6, lazima aende kwa mraba 12.
+☼ Mchezaji ambaye huanguka kwenye sanduku 19 sambamba na hoteli lazima apate zamu yake wakati wa zamu 2.
+☼ Mchezaji ambaye huanguka kwenye sanduku 31 sambamba na vizuri atasubiri mchezaji mwingine kufikia nambari sawa na kuchukua nafasi yake.
+☼ Yeyote anayeanguka kwenye sanduku 42 sambamba na labyrinth atarudi sanduku la 30.
+☼ Ambao anaenda katika 52 vinavyolingana gerezani atasubiri mchezaji mwingine kuja namba moja kuondoka.
+☼ Mchezaji ambaye anaenda kwa sanduku 58 sambamba na sanduku Kifo cha Kifo kitakuanza mchezo tena tangu mwanzo
+☼ Yeyote anayeunganishwa na mchezaji mwingine kwenye sanduku moja atakuwa na kwenda kwenye sanduku ambapo mchezaji mwingine alikuwa kabla ya kucheza.
+Jinsi ya kushinda mchezo wa Goose:
+Ili kushinda mchezo wa Goose, lazima uwe wa kwanza kufika kwenye sanduku la mwisho 63 lakini kwa wajibu wa kufika kwenye sanduku hili.
+Ikiwa mchezaji hufanya alama ya kete ya juu zaidi kuliko idadi ya nafasi za kutenganisha na ushindi, atabidi kurudi nyuma na masanduku mengi zaidi.
+Mchezo iliyoendelezwa na:
+Quentin Fauré (interface graphical) & Jimmy Kipfer (mpango wa magari)
+Ilitafsiriwa na:
+Tafsiri ya Google
+Mchezaji %s ni %s katika sanduku %s
+Hapa ni cheo cha wachezaji:

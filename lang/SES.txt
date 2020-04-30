@@ -1,0 +1,44 @@
+﻿Papali ea likhantsi tse nolofalitsoeng | ISN
+Morero oa lipapali tsa Goose | ISN %s
+<< Play >>
+<< Dikgetho >>
+<< Tloha >>
+<< Khutlela ho menu e kholo >>
+<< Bona the cits >>
+<< Khutlela ho dikgetho >>
+Hae?
+Khetho ea puo
+Buka ea 'mino
+Buka ea liphello
+Khetho ea palo ea bapalami
+Ho 1 = %s | Dice 2 = %s | Khatelo-pele ea %s
+Leeto #%s
+<< Qala papali >>
+Ke phetoho ea sebapali %s/%s
+Ho na le %s player (s) chankaneng / hantle
+Qala ho falla pawn
+Roll dice
+<< Thuso >>
+Mokhoa o lefifi?
+Qala papali ea Goose:
+Motho e mong le e mong ea bapalang o bapala nako ea hae ka ho lahlela dice tse peli. Ho itšetlehile ka palo kapa palo e fumanoang, setšoantšiso se hatela lebokose la hae ka lebokose.
+Ho na le melao ea papali ea Goose ho hlompha ho latela palo eo motho ae etsang kapa lebokose leo e oelang ka lona.
+A re hlahlobisiseng melao ena:
+♦ Qalong ea papali, haeba e mong oa libapali a le 9 ho ea ho a 6 le a 3, o lokela ho ntšetsa pele katleho ea hae kapele ho palo ea 26. Haeba a etsa 9 ho isa ho 4 le 5, o tla ea palo ea 53.
+☼ Haeba nakong ea papali, motho ea bapalang a oela ka le khantsi, o tsosa hape palo ea lintlha tse entsoeng.
+☼ Haeba motho ea bapalang a e-na le 6, o lokela ho ea litekong tse 12.
+☼ Moqapi ea oelang ka lebokoseng la 19 le hotele ho tlameha ho feta nako ea hae ka nako ea 2.
+❀ Moqapi ea oelang ka lebokoseng la 31 le lekanang le seliba o tla emetse sebapali se seng ho fihla nomoro e le 'ngoe le ho nka sebaka sa hae.
+☼ Mang kapa mang ea oelang ka lebokoseng la 42 le lumellanang le labyrinth o tla khutlela lebokoseng la 30.
+☼ Ea kenang ka 52 a lekanang le chankana o tla emela hore motho e mong ea bapalang a tle palo e tšoanang ho tloha.
+☼ Moqapi ea eang lebokoseng la 58 le lekanang le lebokose la Death's Head le tla qala papali hape ho tloha qalong
+☼ Mang kapa mang ea kopantsoeng ke motho e mong ea bapalang lebokoseng le leng o tla tlameha ho ea lebokoseng leo ho lona setšoantšisi se seng sa pele se neng se bapala pele.
+Kamoo u ka hlōlang papali ea Goose:
+E le hore u hlōle papali ea Goose, u tlameha ho ba oa pele ho fihla lebokoseng la ho qetela 63 empa u tlamehile ho fihla ka lebokoseng lena.
+Haeba motho ea bapalang a etsa palo ea meno e phahameng ho feta palo ea libaka tse mo arohanyang le tlhōlo, o tla tlameha ho khutlela morao ke mabokose a mangata a eketsehileng.
+Papali e hlahisitsoeng ke:
+Quentin Fauré (sefahleho sa lipapali) le Jimmy Kipfer (lenaneo la motlakase)
+E fetoletsoeng ke:
+Google Translation
+Player %s ke %s ka lebokoseng %s
+Mona ke boemo ba bapalami:

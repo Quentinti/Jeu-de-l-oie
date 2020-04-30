@@ -1,0 +1,44 @@
+﻿Game o te kuihi tere | kē e
+Kaupapa Kaupapa Kuki | ISN %s
+<< Play >>
+<< Ngā Kōwhiringa >>
+<< Quit >>
+<< Hoki ki te tahua matua "
+<< Tirohia nga whiwhinga "
+<< Hoki ki nga whiringa >>
+Ana?
+Te whiriwhiri i te reo
+Tuhinga o te puoro
+He nui o nga hua tangi
+Te whiriwhiri i te maha o nga kaitākaro
+Rau 1 = %s | Rau 2 = %s | Te haere whakamua o %s
+Tae #%s
+<< Tīmatahia te kēmu "
+Ko te huringa o te kaitäkaro %s/%s
+He kaitono %s kei roto i te whare herehere / pai
+Tīmata te neke i te pawn
+Tohua te toki
+<< Āwhina >>
+Maehe pouri?
+Tīmatahia he kēmu o te papa:
+Ko ia kaitākaro e whakaatu ana i tana wahanga mā te maka i te rua. I runga i te tau, te tau ranei i whiwhihia, ka piki ake te pouaka ki tana pouaka pokanoa.
+He ture o te kēmu o Goose hei whakaute kia rite ki te maha e hangaia ana e tetahi, e pouaka ranei e hinga ana.
+Kia ata titiro atu ki enei ture:
+☼ I te tīmatanga o te kēmu, ki te neke tetahi o nga kaitākaro 9 ki te 6 me te 3, me neke tonu ia i tana papa ki te tau 26. Ki te 9 ia 4 me te 5, ka haere ia ki te tau 53.
+☼ Mehemea kei te waahi, ka hinga te kaitakaro ki te kuihi, ka hoki ano ia ki te maha o nga waahanga.
+☼ Ki te hurihia e te kaitakaro 6, me haere ki te tapawha 12.
+☼ Ko te kaitäkaro e hinga ana ki te pouaka 19 e hono ana ki te hotera, me whakawhiti i tona wa i te wa e rua.
+☼ Ka tatari te kaitakaro ki runga i te pouaka 31 e pa ana ki te puna, kia tae mai ano tetahi atu kaitakaro ki te tau kotahi me te tango i tona wahi.
+☼ Ko te tangata e hinga ana i runga i te pouaka 42 e pa ana ki te taraiwa ka hoki ki te pouaka 30.
+☼ Ko wai e haere ana ki te 52 e pa ana ki te whare herehere ka tatari mo tetahi atu kaitakaro kia haere mai ki te taua tau kia haere.
+☼ Ko te kaitākaro e haere ana ki te pouaka 58 e hāngai ana ki te pouaka ka timata te Head o te mate i te kēmu mai i te timatanga
+☼ Ko te tangata e whakauruhia ana e tetahi atu kaitono i runga i te pouaka kotahi, me haere ki te pouaka i mua i te takaro i te kaitono.
+Me pehea te toa i tetahi kēmu o Goose:
+Ki te riro i tetahi kēmu o Goose, me tino tae koe ki te pouaka whakamutunga 63 engari ki te kawenga kia tae tika ki tenei pouaka.
+I te mea ka nui ake te toronga o te kaititoro ki te toenga o nga mokowai i wehe atu ia ia i te wikitoria, ka hoki ia ki te maha atu o nga pouaka.
+Kua whakawhanakehia e te:
+Quentin Fauré (atanga kauwhata) & Jimmy Kipfer (kaupapa moto)
+I whakamaoritia e:
+Translation Google
+Ko te kaituku %s he %seme i te pouaka %s
+Anei te mahinga o nga kaiwaiata:

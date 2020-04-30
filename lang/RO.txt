@@ -1,0 +1,44 @@
+﻿Joc de gâscă simplificată ISN
+Proiectul pentru gâscă ISN %s
+<< Play >>
+<< Opțiuni >>
+<< Renunță
+<< Înapoi la meniul principal >>
+<< Vezi creditele >>
+<< Înapoi la opțiuni >>
+Lui?
+Alegerea limbii
+Volumul muzicii
+Volumul efectelor sonore
+Alegerea numărului de jucători
+De 1 = %s | Dice 2 = %s | Progresul %s
+Tur #%s
+<< Începeți jocul >>
+E rândul jucătorului %s/%s
+Sunt jucători %s în închisoare / bine
+Începeți să mutați pionul
+Rulați zarurile
+<< Ajutor >>
+Modul întunecat?
+Începeți un joc de gâscă:
+Fiecare jucător își joacă rândul prin aruncarea celor două zaruri. În funcție de numărul sau de numărul obținut, jucătorul avansează caseta cu pionul în cutie.
+Există reguli ale jocului de gâscă pentru a respecta în funcție de numărul pe care o face sau de caseta pe care o cade.
+Să examinăm mai atent aceste reguli:
+☼ La începutul jocului, în cazul în care un jucător este de 9 de 6 și 3, el trebuie să se miște pion imediat la numărul 26. Dacă este 9 de 4 și 5, se va merge la numărul 53.
+☼ Dacă în timpul jocului jucătorul cade pe gâscă, el avansează din nou numărul de puncte făcute.
+☼ Dacă un jucător rulează 6, el trebuie să meargă la pătrat 12.
+☼ Jucătorul care se încadrează pe caseta 19 care corespunde unui hotel trebuie să treacă rândul său în timpul a 2 rotații.
+☼ Jucătorul care cade pe caseta 31 care corespunde cu bine va aștepta ca un alt jucător să ajungă la același număr și să-i ia locul.
+☼ Cine se încadrează în caseta 42 corespunzătoare labirintului se va întoarce în mod necesar la caseta 30.
+☼ Cine se duce în 52, care se potrivește cu închisoarea, va aștepta ca alt jucător să vină la același număr pentru a pleca.
+☼ Jucătorul care merge la caseta 58 care corespunde casetei Death's Head va începe din nou jocul de la început
+☼ Oricine este alăturat de un alt jucător în aceeași cutie va trebui să meargă la caseta în care a jucat celălalt jucător înainte de a juca.
+Cum să câștigi un joc de gâscă:
+Pentru a câștiga un joc de Gâscă, trebuie să fii primul care ajunge în ultima cutie 63 dar cu obligația de a ajunge exact la această cutie.
+În cazul în care jucătorul face un scor de zaruri mai mare decât numărul de spații care îl separă de victorie, va trebui să se mute înapoi cu cât mai multe cutii suplimentare.
+Joc dezvoltat de:
+Quentin Fauré (interfață grafică) și Jimmy Kipfer (program motor)
+Tradus de:
+Traducere Google
+Jucătorul %s este %s în caseta %s
+Iată clasamentul jucătorilor:

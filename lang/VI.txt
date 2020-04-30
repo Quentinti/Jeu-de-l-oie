@@ -1,0 +1,44 @@
+﻿Trò chơi ngỗng đơn giản hóa | ISN
+Dự án trò chơi ngỗng | ISN %s
+<< Chơi >>
+<< Tùy chọn >>
+<< Thoát >>
+<< Quay lại menu chính >>
+<< Xem các khoản tín dụng >>
+<< Quay lại tùy chọn >>
+Của anh ấy?
+Lựa chọn ngôn ngữ
+Âm lượng nhạc
+Âm lượng của hiệu ứng âm thanh
+Lựa chọn số lượng người chơi
+Bỏ 1 = %s | Xúc xắc 2 = %s | Tiến độ của %s
+Tham quan #%s
+<< Bắt đầu trò chơi >>
+Đến lượt người chơi %s/%s
+Có %s người chơi trong tù / giếng
+Bắt đầu di chuyển cầm đồ
+Lăn xúc xắc
+<< Trợ giúp >>
+Chế độ tối?
+Bắt đầu trò chơi Ngỗng:
+Mỗi người chơi chơi lượt của mình bằng cách ném hai con xúc xắc. Tùy thuộc vào số lượng hoặc số lượng thu được, người chơi tiến lên hộp cầm đồ của mình theo từng hộp.
+Có những quy tắc của trò chơi Ngỗng để tôn trọng theo con số mà người ta tạo ra hoặc cái hộp mà người đó rơi xuống.
+Hãy xem xét kỹ hơn các quy tắc sau:
+Vào đầu trò chơi, nếu một trong những người chơi lăn 9 đến 6 và 3, anh ta phải tiến lên cầm đồ ngay lập tức đến số 26. Nếu anh ta làm 9 đến 4 và 5, anh ta sẽ đến số 53.
+Nếu trong trò chơi, người chơi rơi vào một con ngỗng, anh ta lại tiến lên số điểm được thực hiện.
+Nếu người chơi lăn 6, anh ta phải đến ô vuông 12.
+Người chơi rơi vào ô 19 tương ứng với một khách sạn phải vượt qua lượt của mình trong 2 lượt.
+Người chơi rơi vào ô 31 tương ứng với giếng sẽ đợi người chơi khác đến cùng số và thế chỗ anh ta.
+Bất cứ ai rơi vào ô 42 tương ứng với mê cung sẽ nhất thiết phải quay lại ô 30.
+Ai đi trong 52 trận đấu với nhà tù sẽ đợi một người chơi khác đến cùng số để rời đi.
+Người chơi đi đến ô 58 tương ứng với ô Death's Head sẽ bắt đầu lại trò chơi ngay từ đầu
+Bất cứ ai được tham gia bởi một người chơi khác trên cùng một hộp sẽ phải đến hộp nơi người chơi khác đã ở trước khi chơi.
+Cách chiến thắng trò chơi Ngỗng:
+Để giành chiến thắng trong trò chơi Ngỗng, bạn phải là người đầu tiên đến ô cuối cùng 63 nhưng có nghĩa vụ phải đến ngay trên ô này.
+Trong trường hợp người chơi tạo ra một con xúc xắc có số điểm cao hơn số khoảng cách ngăn cách anh ta với chiến thắng, anh ta sẽ phải di chuyển trở lại bằng nhiều ô bổ sung.
+Trò chơi được phát triển bởi:
+Quentin Fauré (giao diện đồ họa) & Jimmy Kipfer (chương trình xe máy)
+Dịch bởi:
+Google dịch
+Người chơi %s là %s trong hộp %s
+Dưới đây là thứ hạng của người chơi:

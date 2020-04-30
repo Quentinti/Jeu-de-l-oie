@@ -1,0 +1,44 @@
+﻿Game of the Goose esenziwe | ISN %s
+umdlalo webhodi Project | ISN %s
+<< Dlala >>
+<< Khetha >>
+<< Phuma >>
+<< Buyela kwi-main menu >>
+<< View credits >>
+<< Buyela Iinketho >>
+Kwakhe?
+Ukukhetha ulwimi
+umthamo Umculo
+Umthamo nemisindo
+Ukukhetha inani umdlali
+Dice 1 = %s | Dice 2 = %s | Zihamba %s
+Vula #%s
+<< >> Qala umdlalo
+Lithuba waloo mdlali %s/%s
+Kukho %s player (s) entolongweni / kuhle
+Qala intshukumo isikhonkwane
+Lokujikelezisa idayisi
+<< Help >>
+mode emnyama?
+Qala umdlalo Goose:
+Umdlali ngamnye odlala ithuba ngalinye ngokusebenzisa idayisi-2. Kuxhomekeka inani okanye umzobo efunyenweyo, umdlali eshenxela ibhokisi yakhe nenkomo yi bhokisi.
+Kukho imithetho intlonipho umdlalo Goose ngokwenani leyo yenziweyo okanye isikwere apho uwe.
+Makhe sibone ngokweenkcukacha le migaqo:
+☼ Ekuqaleni komdlalo, ukuba umdlali yi-9 ngo-6 no-3, ukuba athuthe nenkomo yakhe, ngoko nangoko kule nombolo 26. Ukuba 9 ngo-4 no-5, oko kuya ku- 53.
+☼ Ukuba ngexesha lomdlalo, loo mdlali izisa phezu irhanisi, kwakhona neemali wenza kwinani lamanqaku.
+☼ Xa umdlali 6, kufuneka uye kwi-block 12.
+☼ Umdlali esiwa kwi bhokisi 19 esihambelanayo ehotele kufuneka kudlule ithuba wakhe amathuba 2.
+☼ Umdlali emazweni kwi bhokisi 31 ehambelana silinde kakuhle omnye umdlali ifikelela inani elifanayo kwaye uthathe indawo yawo.
+☼ Nabani na iwela ibhokisi 42 ehambelana nendawo ekubeni kukho kufuneka babuyele ibhokisi 30.
+☼ Ngubani na oya kuhla aye 52 entolongweni ahambelanayo elinde omnye umdlali ukuza inani elifanayo sekhefu.
+☼ Le umdlali oya kwi bhokisi yokukhangela 58 esilingana ukakayi aya kuqalisa umdlalo ukusuka ekuqaleni
+☼ Lowo uncediswa omnye umdlali kwibhokisi enye iya kwi bhokisi mhlawumbi umdlali wema phambi edlala.
+Indlela lokuphumelela umdlalo Goose:
+Ukuze uphumelele umdlalo Goose, kufuneka ukuba ngowokuqala ukufika kwibhokisi lokugqibela 63 kodwa imfuno ukufumana abemaninzi kule bhokisi.
+Ukuba umdlali wenza idayisi amanqaku ngaphezu kwenani lezithuba eyahlula uloyiso, kuya umva zonke iibhokisi ezingaphezulu.
+Umdlalo eyenziwe ngu:
+Quentin Faure (GUI) & Jimmy Kipfer (inkqubo motor)
+Iguqulwe yi / ne:
+Translation Google
+Player %s yi uyahlwayela %s kwi ibhokisi %s
+Nazi ke rankings abadlali:

@@ -1,0 +1,44 @@
+﻿Laro ng pinasimple na gansa | ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Mga Opsyon >>
+<< Tumigil >>
+<< Bumalik sa pangunahing menu >>
+<< Tingnan ang credits >>
+<< Bumalik sa mga pagpipilian >>
+Kanya?
+Pagpipili ng wika
+Dami ng musika
+Dami ng mga sound effect
+Pagpipili ng bilang ng mga manlalaro
+De 1 = %s | Dice 2 = %s | Pag-usad ng %s
+Tour #%s
+<< Simulan ang laro >>
+Ang tira ng manlalaro ay %s/%s
+May mga %s (mga) manlalaro sa bilangguan / na rin
+Simulan ang paglipat ng pawn
+I-roll ang dice
+<< Tulong >>
+Madilim mode?
+Magsimula ng laro ng Goose:
+Ang bawat manlalaro ay gumaganap ng kanyang turn sa pamamagitan ng pagkahagis ang dalawang dice. Depende sa numero o bilang na nakuha, isulong ng manlalaro ang kahon ng kanyang nakasangla.
+May mga patakaran ng laro ng Goose upang igalang ayon sa bilang na ginagawang isa o ang kahon kung saan bumaba ang isa.
+Tingnan natin ang mga panuntunang ito:
+☼ Sa simula ng laro, kung ang isa sa mga manlalaro ay nag-iisa ng 9 ng 6 at 3, dapat niyang paunlarin agad ang kanyang pawn sa numero 26. Kung siya ay 9 sa 4 at 5, pupunta siya sa numero 53.
+☼ Kung sa panahon ng laro, ang manlalaro ay bumaba sa isang gansa, inaabangan niya muli ang bilang ng mga puntos na ginawa.
+☼ Kung ang isang manlalaro ay nag-roll 6, dapat siyang pumunta sa parisukat na 12.
+☼ Ang manlalaro na bumaba sa kahon 19 na nararapat sa isang hotel ay dapat na ipasa ang kanyang turn sa panahon ng 2 liko.
+☼ Ang manlalaro na bumaba sa kahon 31 na naaayon sa balon ay maghihintay para sa isa pang manlalaro na dumating sa parehong numero at kumuha ng kanyang lugar.
+☼ Kahit sino ay bumaba sa kahon 42 na tumutugma sa labirint ay kinakailangang bumalik sa kahon 30.
+☼ Sino ang pumupunta sa 52 na tumutugma sa paghihintay ng bilangguan para sa isa pang manlalaro na dumating sa parehong numero upang umalis.
+☼ Ang manlalaro na pupunta sa kahon 58 na tumutugma sa kahon Ang Head ng Kamatayan ay magsisimula muli ng laro mula sa simula
+☼ Ang sinumang sumali sa ibang manlalaro sa parehong kahon ay kailangang pumunta sa kahon kung saan ang iba pang manlalaro ay bago nagpe-play.
+Paano upang manalo ng isang laro ng Goose:
+Upang manalo ng isang laro ng Goose, dapat kang maging unang dumating sa huling kahon 63 ngunit may obligasyon na makarating mismo sa kahon na ito.
+Kung ang manlalaro ay gumagawa ng dice score na mas mataas kaysa sa bilang ng mga puwang na naghihiwalay sa kanya mula sa tagumpay, kailangan niyang ilipat pabalik sa pamamagitan ng mas maraming mga kahon.
+Laro na binuo ni:
+Quentin Fauré (graphical interface) & Jimmy Kipfer (motor program)
+Isinalin ni:
+Pagsasalin ng Google
+Ang player %s ay %s sa kahon %s
+Narito ang ranggo ng mga manlalaro:

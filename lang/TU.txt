@@ -1,0 +1,44 @@
+﻿Basitleştirilmiş kaz oyunu | ISN
+Kaz Oyunu Projesi | ISN %s
+<< Oynat >>
+<< Seçenekler >>
+<< Çık >>
+<< Ana menüye dön >>
+<< Kredileri Gör >>
+<< Seçeneklere geri dön >>
+Onun?
+Dil seçimi
+Müzik sesi
+Ses efektlerinin sesi
+Oyuncu sayısının seçimi
+Zar 1 = %s | Zar 2 = %s | %s ilerlemesi
+Tur #%s
+<< Oyuna başla >>
+Oyuncunun sırası %s/%s
+Cezaevinde / kuyusunda %s oyuncu var
+Piyonu hareket ettirmeye başla
+Zar atmak
+<< Yardım >>
+Karanlık mod?
+Kaz oyununa başla:
+Her oyuncu iki zar atarak sırasını oynar. Sayıya veya elde edilen sayıya bağlı olarak, oyuncu rehin kutusunu kutuya doğru ilerletir.
+Kazın yapacağı sayıya veya düşme kutusuna göre saygı duyulması gereken Goose oyununun kuralları vardır.
+Bu kurallara daha yakından bakalım:
+☼ Oyunun başında, oyunculardan biri 9'dan 6'ya ve 3'e yuvarlanırsa, piyonunu derhal 26 numaraya ilerletmelidir. 9'a 4 ve 5 yaparsa, 53 numaraya gidecektir.
+☼ Oyun sırasında, oyuncu bir kazın üstüne düşerse, tekrar yaptığı puan sayısını yükseltir.
+A Bir oyuncu 6 alırsa, 12. kareye gitmelidir.
+A Otele karşılık gelen kutu 19'a düşen oyuncu sırasını 2 tur geçmelidir.
+The Kuyuya karşılık gelen 31. kutuya düşen oyuncu, başka bir oyuncunun aynı numaraya gelmesini ve yerini almasını bekleyecektir.
+The Labirente tekabül eden kutu 42'ye düşen kişi mutlaka kutu 30'a geri dönecektir.
+52 Hapishaneyle eşleşecek olan 52 kişi, başka bir oyuncunun aynı numaraya gitmesini bekleyecektir.
+Death Death Head'in kutusuna karşılık gelen 58. kutuya giren oyuncu oyuna baştan başlayacaktır.
+Box Aynı kutudaki başka bir oyuncunun yanında bulunan herkes, diğer oyuncunun oynamadan önce olduğu kutuya gitmek zorunda kalacaktır.
+Kaz oyunu nasıl kazanılır:
+Kaz oyununu kazanmak için, son kutuya 63 ilk gelen, ancak bu kutuya doğrudan ulaşma zorunluluğuna sahip olmalısınız.
+Oyuncunun, onu zaferden ayıran boşluk sayısından daha yüksek bir zar puanı kazanması durumunda, bir çok ilave kutu ile geri hareket etmesi gerekir.
+Oyun geliştiren:
+Quentin Fauré (grafik arayüz) ve Jimmy Kipfer (motor programı)
+Çeviren:
+Google Çevirisi
+%s oyuncusu %s kutusunda %s
+İşte oyuncuların sıralaması:

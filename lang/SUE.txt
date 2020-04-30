@@ -1,0 +1,44 @@
+﻿Game of the simplified goose | ISN
+Goose Game Project | ISN %s
+<< Spela >>
+<< Alternativ >>
+<< Avsluta >>
+<< Tillbaka till huvudmenyn >>
+<< Se krediterna >>
+<< Tillbaka till alternativ >>
+Hans?
+Val av språk
+Volym av musik
+Volymen av ljudeffekter
+Val av antal spelare
+De 1 = %s | Tärning 2 = %s | Framsteg av %s
+Tour #%s
+<< Starta spelet >>
+Det är spelarens tur %s/%s
+Det finns %s spelare i fängelse / brunn
+Börja flytta bonden
+Rul tärningarna
+<< Hjälp >>
+Mörkt läge?
+Starta ett spel Goose:
+Varje spelare spelar sin tur genom att kasta de två tärningarna. Beroende på nummer eller antal erhållna, förflyttar spelaren sin bondelåda genom lådan.
+Det finns regler för spelet Goose att respektera enligt det nummer som man gör eller låsen där man faller.
+Låt oss titta närmare på dessa regler:
+☼ I början av spelet, om någon av spelarna rullar 9 vid 6 och 3, måste han fortsätta sin bonde direkt till nummer 26. Om han gör 9 till 4 och 5 går han till nummer 53.
+☼ Om spelaren faller på en gås, går han vidare fram till antalet poäng som görs.
+☼ Om en spelare rullar 6 måste han gå till kvadrat 12.
+☼ Spelaren som faller på box 19 som motsvarar ett hotell måste passera sin tur under 2 varv.
+☼ Spelaren som faller på box 31 som motsvarar brunnen, väntar på att en annan spelare kommer fram till samma nummer och placerar sig.
+☼ Den som faller på lådan 42 som motsvarar labyrinten kommer nödvändigtvis att återgå till lådan 30.
+☼ Vem går i 52 som matchar fängelset väntar på att en annan spelare kommer till samma nummer att lämna.
+☼ Spelaren som går till lådan 58 som motsvarar lådan Death's Head, startar spelet igen från början
+☼ Den som är ansluten till en annan spelare i samma låda måste gå till lådan där den andra spelaren var innan han spelade.
+Hur man vinner ett spel med gås:
+För att vinna ett spel av gås måste du vara den första som kommer fram i den sista rutan 63 men med skyldigheten att anlända direkt på den här rutan.
+Om spelaren gör ett tärningsresultat högre än antalet utrymmen som skiljer honom från segern, måste han flytta tillbaka med så många extra lådor.
+Spel utvecklat av:
+Quentin Fauré (grafiskt gränssnitt) & Jimmy Kipfer (motorprogram)
+Översatt av:
+Google översättning
+Spelaren %s är %s i rutan %s
+Här är rankningen av spelarna:

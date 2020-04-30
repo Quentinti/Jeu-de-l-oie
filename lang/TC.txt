@@ -1,0 +1,44 @@
+﻿Hra zjednodušené husi ISN
+Goose Game Project | ISN %s
+<< Přehrát >>
+<< Možnosti >>
+<< Ukončete >>
+<< Zpět do hlavního menu >>
+<< Viz kredity >>
+<< Zpět na možnosti >>
+Jeho?
+Volba jazyka
+Objem hudby
+Objem zvukových efektů
+Volba počtu hráčů
+Kostky 1 = %s | Kostky 2 = %s | Průběh %s
+Prohlídka #%s
+<< Spusťte hru >>
+Je to tah hráče %s/%s
+Ve vězení / jamce je %s hráčů
+Začněte pohybovat pěšcem
+Hodit kostky
+<< Nápověda >>
+Temný režim?
+Spustit hru na Goose:
+Každý z hráčů hraje svůj tah házením dvou kostek. V závislosti na čísle nebo získaném čísle hráč posouvá box do pole.
+Tam jsou pravidla hry Goose respektovat podle čísla, které jeden dělá, nebo box, na kterém jeden padá.
+Podívejme se blíže na tato pravidla:
+☼ Na začátku hry, pokud jeden z hráčů hodí 9 o 6 a 3, musí ihned posunout svého pěšce na číslo 26. Pokud udělá 9 o 4 a 5, půjde na číslo 53.
+☼ Pokud během hry hráč spadne na husu, znovu udělá počet bodů.
+Player Pokud hráč hodí 6, musí jít na čtverec 12.
+Player Hráč, který spadne do kolonky 19 odpovídající hotelu, musí projet svou zatáčku během 2 otáček.
+Player Hráč, který spadne do kolonky 31 odpovídající jamce, bude čekat, až jiný hráč dorazí na stejné číslo a zaujme jeho místo.
+☼ Ten, kdo spadne do kolonky 42 odpovídající labyrintu, se nutně vrátí do kolonky 30.
+☼ Kdo chodí do 52, aby vězni čekali, až jiný hráč přijde na stejné číslo, aby odjel.
+☼ Hráč, který jde do boxu 58 odpovídající boxu Death's Head, začne hru znovu od začátku
+By Kdokoli se připojí jiný hráč na stejném boxu, musí jít do boxu, ve kterém byl jiný hráč před hraním.
+Jak vyhrát hru Goose:
+Chcete-li vyhrát hru Goose, musíte být první, kdo dorazí na poslední kolonku 63, ale s povinností dorazit přímo do této kolonky.
+V případě, že hráč udělá skóre kostek vyšší než počet prostorů, které ho oddělují od vítězství, bude se muset vrátit o tolik dalších políček.
+Hra vyvinutá:
+Quentin Fauré (grafické rozhraní) & Jimmy Kipfer (motorový program)
+Přeložil:
+Překlad Google
+Hráč %s je %s v poli %s
+Zde je pořadí hráčů:
