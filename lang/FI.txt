@@ -1,0 +1,44 @@
+﻿Yksinkertaistetun hanhen peli ISN
+Goose Game Project | ISN %s
+<< Pelaa >>
+<< Asetukset >>
+<< Lopeta >>
+<< Takaisin päävalikkoon >>
+<< Katso hyvitykset >>
+<< Takaisin valintoihin >>
+Hänen?
+Kielen valinta
+Musiikin määrä
+Äänitehosteiden määrä
+Pelaajien määrän valinta
+De 1 = %s | Dice 2 = %s | %s: n eteneminen
+Tour #%s
+<< Aloita peli >>
+Se on pelaajan vuoro %s/%s
+On olemassa% s pelaaja (t) vankilassa / hyvin
+Käynnistä pelinappula
+Pyöritä noppaa
+<< Ohje >>
+Tumma tila?
+Aloita peli Goose:
+Jokainen pelaaja soittaa vuorollaan heittämällä kaksi noppaa. Riippuen numerosta tai saadusta numerosta pelaaja siirtyy pelinappulaan ruutuun.
+Goose-pelin sääntöjä kunnioitetaan sen mukaan, mitä numeroa yksi tekee tai laatikko, johon kukin kuuluu.
+Tarkastellaan lähemmin näitä sääntöjä:
+☼ Pelin alussa, jos joku pelaajista rullaa 9: llä 6: lla ja 3: lla, hänen on etukäteen saatava etukäteen numero 26: een.
+☼ Jos pelaaja putoaa pelin aikana hanhen päälle, hän jatkaa tekemiensä pisteiden määrää.
+☼ Jos pelaaja rullaa 6, hänen täytyy mennä neliöön 12.
+Hotel Hotelli, joka vastaa hotellin 19 kohtaan, tulee kulkea vuorollaan 2 kierrosta.
+☼ Pelaaja, joka kuuluu kaivoon 31, joka vastaa kaivoa, odottaa, että toinen pelaaja saapuu samaan numeroon ja ottaa paikan.
+☼ Joka labyrinttiä vastaavaan laatikkoon 42 siirtyy, palaa välttämättä ruutuun 30.
+☼ Kuka menee 52: een, joka vastaa vankilaa odottaa, että toinen pelaaja tulee samaan numeroon lähteä.
+☼ Pelaaja, joka menee ruutuun 58, joka vastaa kuoleman päätä, aloittaa pelin uudelleen alusta alkaen
+☼ Kuka tahansa, joka on liittynyt toiseen samassa laatikossa olevaan pelaajaan, tulee mennä ruutuun, jossa toinen pelaaja oli ennen pelaamista.
+Kuinka voittaa Goose-pelin:
+Jos haluat voittaa Goose-pelin, sinun on oltava ensimmäinen, joka saapuu viimeiseen ruutuun 63, mutta velvollisuutesi saapua suoraan tähän ruutuun.
+Jos pelaaja tekee noppapisteet korkeammaksi kuin hänet erottavan voiton määrän, hänen on siirryttävä takaisin niin monta ylimääräistä laatikkoa.
+Pelin kehittänyt:
+Quentin Fauré (graafinen käyttöliittymä) & Jimmy Kipfer (moottoriohjelma)
+Kääntäjä:
+Google-käännös
+Pelaaja %s on %seme ruudussa %s
+Tässä on pelaajien sijoitus:

@@ -1,0 +1,44 @@
+﻿Cluiche an gé shimplithe | ISN
+Tionscadal Cluiche Goose | ISN %s
+<< Play >>
+<< Roghanna >>
+<< Quit >>
+<< Ar ais go dtí an príomh-roghchlár >>
+<< Féach na creidmheasanna >>
+<< Ar ais chuig na roghanna >>
+A chuid?
+Rogha teanga
+Toirt an cheoil
+Toirt na n-éifeachtaí fuaime
+Rogha líon na n-imreoirí
+De 1 = %s | Dice 2 = %s | Dul chun cinn %s
+Turas #%s
+<< Tosaigh an cluiche >>
+Is é an cas imreoir %s/%s
+Tá %s imreoir sa phríosún / go maith
+Tosaigh ag gluaiseacht an saighdiúir
+Rolla an dísle
+<< Cabhair >>
+Modh dorcha?
+Tosaigh cluiche Goose:
+Imríonn gach imreoir a chasadh tríd an dá dhísle a chaitheamh. Ag brath ar an uimhir nó ar an uimhir a fhaightear, cuireann an t-imreoir a bhosca saighdiúir ar aghaidh sa bhosca.
+Tá rialacha an chluiche Gé le meas de réir an líon a dhéanann duine nó an bosca ar a dtagann ceann.
+Déanaimis súil ghéar ar na rialacha seo:
+☼ Ag tús an chluiche, má rollaíonn duine de na himreoirí 9 ag 6 agus 3, ní mór dó a saighdiúir a chur ar aghaidh láithreach chuig uimhir 26. Má dhéanann sé 9 faoi 4 agus 5, rachaidh sé go dtí an uimhir 53.
+☼ Má thiteann an t-imreoir ar ghé le linn an chluiche, cuireann sé an líon pointí a rinneadh chun cinn arís.
+☼ Má rollaítear imreoir 6, caithfidh sé dul go dtí cearnóg 12.
+☼ Ní mór don imreoir a thiteann ar bhosca 19 a fhreagraíonn d'óstán a chasadh a rith le linn dhá chasadh.
+☼ Fanfaidh an t-imreoir a thiteann ar bhosca 31 a fhreagraíonn don tobar ar imreoir eile teacht chuig an uimhir chéanna agus a áit a ghlacadh.
+☼ Ní fhéadfaidh an té a thiteann ar bhosca 42 a fhreagraíonn don labyrinth filleadh ar bhosca 30.
+☼ Cé a théann isteach i 52 fanfaidh an príosún a mheaitseáil le himreoir eile chun an líon céanna a fhágáil.
+☼ Tosóidh an t-imreoir a théann chuig bosca 58 a fhreagraíonn don bhosca Death's Head an cluiche arís ón tús
+☼ Beidh ar an té a dtéann imreoir eile isteach sa bhosca céanna dul chuig an mbosca ina raibh an t-imreoir eile roimh sheinm.
+Conas cluiche Gé a bhuachan:
+Chun cluiche Gé a bhuachan, ní mór duit a bheith ar an gcéad duine chun an bosca deiridh 63 a bhaint amach ach an oibleagáid ort teacht ar dheis sa bhosca seo.
+Sa chás go ndéanann an t-imreoir dísle scór níos airde ná an líon spásanna a scarann ​​sé ón mbuachan, beidh air bogadh ar ais le go leor boscaí breise.
+Cluiche forbartha ag:
+Quentin Fauré (comhéadan grafach) & Jimmy Kipfer (clár mótair)
+Aistrithe ag:
+Google Translation
+Tá an %s t-imreoir %s i mbosca %s
+Seo rangú na n-imreoirí:

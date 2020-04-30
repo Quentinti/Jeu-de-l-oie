@@ -1,0 +1,44 @@
+﻿Spel van die vereenvoudigde gans | ISN
+Goose Game Project | ISN %s
+<< Speel >>
+<< Opsies >>
+<< Sluit >>
+<< Terug na die hoofkieslys >>
+<< Kyk die krediete >>
+<< Terug na opsies >>
+Sy?
+Keuse van taal
+Volume van musiek
+Volume van klankeffekte
+Keuse van die aantal spelers
+De 1 =%s | Dobbelsteen 2 =%s | Vordering van %s
+Toer #%s
+<< Begin die spel >>
+Dit is die speler se beurt %s/%s
+Daar is %s speler (s) in die tronk / put
+Begin die pion te beweeg
+Rol die dobbelstene
+<< Hulp >>
+Donker af?
+Begin 'n speletjie Goose:
+Elke speler speel sy beurt deur die twee dobbelstene te gooi. Afhangende van die nommer of die getal wat behaal word, beweeg die speler sy pand boks deur die boks.
+Daar is reëls van die spel Goose om te respekteer volgens die nommer wat een maak of die boks waarop een val.
+Kom ons kyk noukeuriger na hierdie reëls:
+☼ In die begin van die spel, as 'n speler is 9 met 6 en 3, hy moet sy pion onmiddellik na die nommer 26. beweeg As dit 9 deur 4 en 5, sal dit gaan na nommer 53.
+☼ As die speler tydens die spel op 'n gans val, vorder hy weer die aantal punte wat gemaak word.
+☼ As 'n speler 6 rol, moet hy na vierkant 12 gaan.
+☼ Die speler wat op boks 19 val wat ooreenstem met 'n hotel, moet sy beurt oor 2 draaie slaag.
+☼ Die speler wat op boks 31 val wat ooreenstem met die put, sal wag vir 'n ander speler om by dieselfde nommer te kom en sy plek te neem.
+☼ Wie val op boks 42 wat ooreenstem met die labirint, sal noodwendig terugkeer na vak 30.
+☼ Wie gaan in 52 wat by die tronk pas, sal wag vir 'n ander speler om dieselfde nommer te kry om weg te gaan.
+☼ Die speler wat na boks 58 kom wat ooreenstem met die boks Doodskop, sal van die begin af die spel begin
+☼ Wie by 'n ander speler op dieselfde boks aangesluit word, moet na die boks gaan waar die ander speler voor speel was.
+Hoe om 'n spel van Gans te wen:
+Om 'n spel Goose te wen, moet jy die eerste wees wat op die laaste boks 63 aankom, maar met die verpligting om reg op hierdie boks te kom.
+In die geval dat die speler 'n dobbelsteen telling hoër maak as die aantal spasies wat hom van die oorwinning skei, moet hy met soveel addisionele bokse terug beweeg.
+Spel ontwikkel deur:
+Quentin Faure (grafiese koppelvlak) & Jimmy Kipfer (motorprogram)
+Vertaal deur:
+Google Vertaling
+Speler %s is%seme in vak %s
+Hier is die posisie van die spelers:

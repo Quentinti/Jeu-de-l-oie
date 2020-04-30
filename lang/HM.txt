@@ -1,0 +1,44 @@
+﻿Kev ua si ntawm simplified goose | ISN
+Goose Game Project | ISN %s
+<< Ua si >>
+<< Xaiv >>
+<< Txiav >>
+<< Rov qab mus rau lub ntsiab zaub mov >>
+<< Saib cov qhab nia >>
+<< Rov qab mus rau cov kev xaiv >>
+Nws?
+Kev xaiv lus
+Volume ntawm suab paj nruag
+Ntim ntawm suab teebmeem
+Kev xaiv ntawm tus naj npawb ntawm cov players
+Tsib 1 = %s | Tsuav 2 = %s | Kev txhim kho ntawm %s
+Ncig saib #%s
+<< Pib qhov kev ua si >>
+Nws yog tus neeg ua si lub tig %s/%s
+Muaj %s player (s) hauv tsev loj cuj / zoo
+Pib txav lub pawn
+Yob lub dice
+<< Pab >>
+Hom tsaus nti?
+Pib ua si ntawm Goose:
+Txhua tus neeg ua si plays nws tig los ntuav ob lub qhov tsua. Nyob ntawm tus naj npawb los yog tus naj npawb tau, tus neeg uas ua ntawv tau qhib nws lub thawv pawn ntawm lub thawv.
+Muaj cov cai ntawm qhov kev ua si ntawm Goose los hwm raws li tus naj npawb ntawm ib qho los yog lub thawv uas ib ntog.
+Cia peb los saib xyuas cov cai no:
+☼ Thaum pib ntawm qhov kev ua si, yog tias ib tug ntawm cov players hnav 9 ntawm 6 thiab 3, nws yuav tsum ua nws cov pawn tam sim ntawd rau tus naj npawb 26. Yog tias nws muaj 9 ntawm 4 thiab 5, nws yuav mus rau tus xov tooj 53.
+Thaum lub sij hawm qhov kev ua si, tus neeg uas ua ntawv ntog rau ib tug Goose, nws nce qib ntau cov ntsiab lus tau ua.
+Yog hais tias ib tug neeg uas tuaj yeem rub 6, nws yuav tsum mus rau tim square 12.
+☼ Cov neeg uas ua ntawv uas ntog rau ntawm lub thawv 19 sib nug mus rau lub tsev so yuav tsum dhau nws lub lem thaum 2 lem.
+☼ Cov neeg uas ua ntawv ntog rau hauv lub thawv 31 sib nug txog qhov dej yuav tos lwm tus neeg tuaj ua si kom tuaj txog tib lub xov tooj thiab coj nws qhov chaw.
+☼ Leej twg ntog rau hauv lub thawv 42 sib haum rau cov labyrinth yuav tas rov qab mus rau kem 30.
+☼ Leej twg mus nyob rau hauv 52 txuam cov tsev loj cuj yuav tos lwm tus neeg tuaj ua si mus rau tib lub xov tooj tawm mus.
+☼ Cov neeg uas ua ntawv mus rau hauv lub thawv 58 sib thooj rau lub thawv Kev tuag lub taub hau yuav pib dua rov qab los ntawm qhov pib
+☼ Leej twg koom los ntawm lwm tus neeg ua si rau tib lub thawv yuav tsum mus rau ntawm lub box uas lwm tus neeg ua si ua ntej ua si.
+Yuav ua li cas yeej ib qhov kev ua si ntawm Goose:
+Yog xav kom muaj kev sib tw ntawm Goose, koj yuav tsum yog thawj tus tuaj txog ntawm lub npov 63 tab sis nrog txoj kev lav phib xauj los txog ntawm lub npov no.
+Nyob rau hauv rooj plaub uas tus neeg uas ua ntawv ua rau cov qhab nees siab tshaj qhov ntau qhov chaw sib cais ntawm nws txoj kev yeej, nws yuav tau rov qab los ntawm ntau lub thawv ntxiv.
+Kev ua si tsim los ntawm:
+Quentin Fauré (graphical interface) & Jimmy Kipfer (kev tsav tsheb)
+Txhais los ntawm:
+Google txhais lus
+Player %s yog %seme hauv box %s
+Ntawm no yog qhov qeb duas ntawm tus players:

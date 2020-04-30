@@ -1,0 +1,44 @@
+﻿Lihtsustatud hane mäng ISN
+Goose Game Project | ISN %s
+<< Esita >>
+<< Valikud >>
+<< Lõpeta >>
+<< Tagasi põhimenüüsse >>
+<< Vaata krediiti >>
+<< Tagasi valikute juurde >>
+Tema?
+Keelevalik
+Muusika maht
+Heliefektide maht
+Mängijate arvu valik
+De 1 = %s | Dice 2 = %s | %s edenemine
+Tour #%s
+<< Alusta mängu >>
+See on mängija omakorda %s/%s
+Vanglas / süvendis on %s mängijad
+Alustage ettur liigutamist
+Rulli täringud
+<< Abi >>
+Tume režiim?
+Alusta Goose mängu:
+Iga mängija mängib omakorda kaks täringut. Sõltuvalt numbrist või saadud arvust edendab mängija oma pandimaja kasti.
+Goose mängu reeglid peavad austama vastavalt sellele, millist numbrit ta teeb või kasti, kuhu üks langeb.
+Vaatame lähemalt neid reegleid:
+☼ Mängu alguses, kui üks mängijatest rullub 6-ga ja 3-ga, peab ta kohe oma ettur kohale jõudma 26-le. Kui ta teeb 9-d 4-ga ja 5-le, läheb ta numbrile 53.
+☼ Kui mängija kukub mängu ajal hani, siis ta teeb uuesti tehtud punktide arvu.
+☼ Kui mängija rullub 6, peab ta minema ruudule 12.
+Hotel Hotellile vastavasse lahtrisse 19 sattunud mängija peab läbima oma käigu 2 pöörde jooksul.
+☼ Mängija, kes langeb lahtrisse 31, mis vastab kaevule, ootab, et teine ​​mängija jõuaks samale numbrile ja võtaks oma koha.
+☼ Igaüks, kes langeb labürindi vastavasse lahtrisse 42, pöördub kindlasti lahtrisse 30.
+☼ Kes läheb 52-sse, sobitades vangla, ootab, et teine ​​mängija jõuaks samale numbrile, et lahkuda.
+☼ Mängija, kes läheb kasti 58, mis vastab kasti Death's Head, alustab mängu algusest peale
+☼ Kes saabub teise mängijaga samal kastis, peab minema kasti, kus teine ​​mängija oli enne mängimist.
+Kuidas võita Goose mäng:
+Goose mängu võitmiseks peate olema esimene, kes jõuab viimasele lahtrisse 63, kuid kohustusega jõuda sellesse lahtrisse.
+Juhul, kui mängija teeb täringut kõrgemaks, kui tema võiduajast eralduvate ruumide arv on suurem, peab ta nii palju täiendavaid lahtreid tagasi minema.
+Mäng on välja töötatud:
+Quentin Fauré (graafiline liides) & Jimmy Kipfer (mootorsõidukite programm)
+Tõlgitud:
+Google'i tõlge
+Mängija %s on %seme kastis %s
+Siin on mängijate järjestus:

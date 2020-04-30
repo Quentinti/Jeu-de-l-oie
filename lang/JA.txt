@@ -1,0 +1,44 @@
+﻿Game saka goose sing sederhana ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Pilihan >>
+<< Quit >>
+<< Back to main menu >>
+<< Pirsani crita >>
+<< Back to options >>
+Kang?
+Pilihan basa
+Volume musik
+Volume efek swara
+Pilihan saka nomer pemain
+De 1 = %s | Dice 2 = %s | Perkembangan %s
+Wisata #%s
+<< Mulai game >>
+Sing nguripake pemain %s/%s
+Ana %s player (s) ing pakunjaran / sumur
+Mulai nggarap pawn kasebut
+Gulung dadu
+<< Bantuan >>
+Mode peteng?
+Miwiti game Goose:
+Saben pemain entuk giliran kanthi mbuwang rong dadu. Gumantung ing nomer utawa nomer sing diduweni, pemain mundhut kothak pawn kasebut dening kothak.
+Ana aturan game Goose kanggo ngurmati miturut nomer sing digawe utawa kothak sing siji tiba.
+Ayo katon cedhak karo aturan kasebut:
+☼ Ing awal game, yen salah siji pemain muter 9 dening 6 lan 3, kudu advance pion dheweke langsung menyang nomer 26. Yen dheweke ora 9 dening 4 lan 5, dheweke bakal pindhah menyang nomer 53.
+☼ Yen ing game kasebut, pemain tiba ing goose, banjur mundur maneh jumlah poin sing digawe.
+☼ Yen pemain muter 6, dheweke kudu menyang lapangan 12.
+☼ Pemain sing tiba ing kothak 19 sing cocog karo hotel kudu nglewati 2 turn.
+☼ Pemain sing tiba ing kothak 31 sing cocog karo sumur bakal ngenteni pemain liya teka ing nomer sing padha lan njupuk Panggonan.
+☼ Sapa sing tiba ing kotak 42 sing cocog karo labirin bakal kudu bali menyang kothak 30.
+☼ Sing dadi 52 sing cocog karo penjara bakal ngenteni pemain liyane teka ing jumlah sing padha kanggo ninggalake.
+☼ Pamuter sing dadi kothak 58 sing cocog karo kothak Death's Head bakal miwiti game maneh saka awal
+☼ Sing sapa gabung karo pemain liya ing kothak sing padha bakal kudu menyang kotak ing ngendi pemain liya sadurunge muter.
+Cara menang game Goose:
+Kanggo menang game Goose, sampeyan kudu sing pisanan teka ing kothak pungkasan 63 nanging kanthi kewajiban kanggo teka tengen ing kothak iki.
+Yen pemain nyithak skor dice sing luwih dhuwur tinimbang nomer spasi sing misahake dheweke saka kamenangan, dheweke bakal kudu mundur maneh minangka kothak tambahan.
+Game dikembangaké déning:
+Quentin Fauré (antarmuka grafis) & Jimmy Kipfer (program motor)
+Diterjemahake dening:
+Terjemahan Google
+Player %s de %s seme ing kothak %s
+Punika peringkat pemain:

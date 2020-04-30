@@ -1,0 +1,44 @@
+﻿Sadələşdirilmiş qazın oyunu ISN
+Qoz Oyunu Layihəsi | ISN %s
+<< Play >>
+<< Seçimlər >>
+<< Çıxın >>
+<< Əsas menyuya geri qayıt >>
+<< Kreditlərə baxın >>
+<< Seçimlərə geri qayıt >>
+Onun?
+Dil seçimi
+Musiqi həcmi
+Səs effektlərinin həcmi
+Oyunçu sayının seçilməsi
+De 1 = %s | Zar 2 = %s | %s irəliləməsi
+Tur #%s
+<< Oyuna başlayın >>
+Oyunçu növbəsi %s/%s
+Həbsxanada / oyunda %s oyunçusu var
+Piyada hərəkətinə başlayın
+Zarı sıxın
+<< Yardım >>
+Dark rejimi?
+Goose oyununu başla:
+Hər bir oyunçu iki zar ataraq öz növbəsində oynayır. Nömrəyə və ya əldə edilən nömrə görə, oyunçu qutusuna qutusuna girir.
+Goose oyununun qaydaları həqiqi sayılır və birinə düşən qutuya görə hörmət edir.
+Bu qaydalara daha çox nəzər salaq:
+Oyunun başlanğıcında, oyunçuların biri 6 və 3-də 9-u toplayırsa, dərhal onun pionunu 26 sayına qədər artırmalıdır. 9 -dan 4-ye və 5-ə çıxarsa, 53 nömrəli olacaq.
+☼ Oyun zamanı oyunçu bir qaza düşərsə, yenə də xalların sayını artırır.
+☼ Bir oyunçu 6 gəzsə, 12 kvadrata çıxmalıdır.
+☼ Bir otelə müvafiq olaraq 19 qutuya düşən oyunçu növbədə 2 növbə keçməlidir.
+☼ Kuyuya müvafiq olaraq 31 qutuya düşən oyunçu digər oyunçunun eyni sayda gəlməsini və yerini almasını gözləyir.
+☼ Labirentə müvafiq olan 42 qutuya düşənlər mütləq qutuya 30 dönəcəklər.
+☼ Həbsxanaya uyğun gələn 52 başqa oyunçunun ayrılmaq üçün eyni sayda gəlməsini gözləyəcək.
+☼ Ölümün başı qutusuna cavab verən qutuya 58 gedən oyunçu əvvəllər oyundan yenidən başlayacaq
+☼ Kimsə eyni qutuda başqa bir oyunçu ilə birləşdisə, başqa oyunçu oynamadan əvvəl olduğu yerə getməli olacaq.
+Qoz bir oyun qazanmaq üçün necə:
+Goose oyununu qazanmaq üçün, son qutu 63-ə çatmaq üçün ilk, lakin bu qutuya çatma öhdəliyi ilə ilk olmalıdır.
+Oyunçu zəriflikdən ayrılan boşluq sayından daha yüksək bir zərbə vurduqda, o, əlavə qutular kimi geri hərəkət etməlidir.
+Tərəfindən hazırlanmış oyun:
+Quentin Fauré (qrafik interfeys) və Jimmy Kipfer (motor proqramı)
+Tərcüməçi:
+Google Tərcümə
+Oyunçu %s unun %s qutusunda %seme edir
+Oyunçuların sıralaması:

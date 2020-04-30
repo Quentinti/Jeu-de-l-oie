@@ -1,0 +1,44 @@
+﻿Spultsje fan 'e ferienige goose ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Opsjes >>
+<< Waart >>
+<< Werom nei it haadmenu >>
+<< Sjoch de credits >>
+<< Werom nei optismen >>
+Syn?
+Seleksje fan taal
+Volume fan muzyk
+Volume fan lûds effekten
+Seleksje fan it oantal spilers
+De 1 = %s | Dice 2 = %s | Progress fan %s
+Tour #%s
+<< Begjin it spul >>
+It is de wedstryd fan %s/%s
+Der binne %s spilers (s) yn finzenis / goed
+Begjin fan 'e panne
+Roll de dize
+<< Help >>
+Dûnsmodus?
+Begjin in spiel fan Goose:
+Eltse spieler spilet syn turn troch de twa bonken. Ofhinklik fan it nûmer of it getal nûmer ferhellet de spiler syn pakhúsfak troch fak.
+Der binne regels fan it spul fan Goose te respektearjen neffens it getal dat it makket of it fakje wêr't men falt.
+Litte wy in tichterby op dizze regels sjen:
+☼ At it begjin fan it spul, as ien fan de spilers 9 troch 6 en 3 rollt, moat hy syn paad fuortendaliks nei it nûmer 26 foarkomme. As er 9 troch 4 en 5 docht, sil hy nei it nûmer 53 gean.
+☼ As yn it spul de spiler op in goose falt, komt er wer opnij it tal punten makke.
+☼ As in spiler 6 rollt, moat hy nei fjild 12 gean.
+☼ De spiler dy't falt op kastje 19, dy't oerienkommend is foar in hotel, moat twa kear de wedstryd passe.
+☼ De spiler dy't op it fekje 31 falt op 'e boarne, sil wachtsje op in oare spiler om itselde nûmer te kommen en plak te nimmen.
+☼ Wa't op it fekje 42 falt dat it labyrint is, sil opnij werom nei boek 30.
+☼ Wa't yn 'e 52 oansluting fan' e finzenis wachtet, sil wachtsje op in oare spiler om itselde nûmer te kommen om te ferlitten.
+☼ De spiler dy't nei it fekje giet nei it fjild fan 'e dea fan' e dea, sil begjin fan it begjin fan it spul begjinne
+☼ Wer ien fan in oare spiler oan deselde kaach is, moat dan nei it fekje gean wêr't de oare spiler foardat se spielje.
+Hoe winne in spul fan Goose:
+Om in spul fan Goose te winnen, moatte jo it earste wêze om op it lêste boek 63 te kommen, mar mei de ferplichting om rjocht op dit fak te kommen.
+As gefolch dat de spiler in foarkar heger makket as it oantal spaasjes dy't him út 'e oerwinning ôfspile, sil hy sa folle ekstra fakken weromkomme.
+Game ûntwikkele troch:
+Quentin Fauré (grafike ynterface) & Jimmy Kipfer (motorfyts)
+Translated by:
+Google oersetting
+De spiler %s is %seme yn it fekje %s
+Hjir is de ranglist fan 'e spilers:

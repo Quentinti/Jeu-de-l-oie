@@ -1,0 +1,44 @@
+﻿Spiel der vereinfachten Gans | ISN
+Gans-Spiel-Projekt | ISN %s
+<< Spielen >>
+<< Optionen >>
+<< Beenden >>
+<< Zurück zum Hauptmenü >>
+<< Siehe die Credits >>
+<< Zurück zu den Optionen >>
+Seins?
+Wahl der Sprache
+Lautstärke der Musik
+Lautstärke der Soundeffekte
+Wahl der Anzahl der Spieler
+De 1 = %s | Würfel 2 = %s | Fortschritt von %s
+Tour #%s
+<< Starte das Spiel >>
+Der Spieler ist an der Reihe %s/%s
+Es sind% s Spieler im Gefängnis / Brunnen
+Bewege den Bauern
+Wirf die Würfel
+<< Hilfe >>
+Dunkler Modus?
+Starte ein Spiel von Goose:
+Jeder Spieler ist an der Reihe, indem er zwei Würfel wirft. Abhängig von der Zahl oder der erhaltenen Zahl rückt der Spieler seinen Bauern Feld für Feld vor.
+Es gibt Regeln für das Spiel von Goose, die je nach der Zahl, die man macht, oder der Schachtel, auf die man fällt, beachtet werden müssen.
+Sehen wir uns diese Regeln genauer an:
+☼ Wenn einer der Spieler zu Beginn des Spiels 9 mal 6 und 3 würfelt, muss er seinen Bauern sofort auf die Nummer 26 vorrücken. Wenn er 9 mal 4 und 5 macht, geht er auf die Nummer 53.
+☼ Wenn der Spieler während des Spiels auf eine Gans fällt, erhöht er die Anzahl der erzielten Punkte erneut.
+☼ Wenn ein Spieler 6 würfelt, muss er auf Feld 12 gehen.
+☼ Der Spieler, der auf Feld 19 fällt, das einem Hotel entspricht, muss seinen Zug in 2 Zügen bestehen.
+☼ Der Spieler, der auf die Box 31 fällt, die dem Brunnen entspricht, wartet, bis ein anderer Spieler die gleiche Nummer erreicht und seinen Platz einnimmt.
+☼ Wer auf Feld 42 fällt, das dem Labyrinth entspricht, kehrt notwendigerweise zu Feld 30 zurück.
+☼ Wer mit 52 zum Gefängnis passt, wartet darauf, dass ein anderer Spieler zur selben Nummer kommt, um das Gefängnis zu verlassen.
+☼ Der Spieler, der zu Feld 58 geht, das dem Feld Totenkopf entspricht, beginnt das Spiel erneut von vorne
+☼ Wer mit einem anderen Spieler in der gleichen Box spielt, muss zu der Box gehen, in der sich der andere Spieler vor dem Spielen befunden hat.
+So gewinnen Sie eine Partie Gans:
+Um eine Partie Goose zu gewinnen, müssen Sie der Erste sein, der in der letzten Box 63 ankommt, jedoch verpflichtet sein, direkt in dieser Box anzukommen.
+Falls der Spieler einen höheren Würfelwert erzielt als die Anzahl der Felder, die ihn vom Sieg trennen, muss er um so viele zusätzliche Felder zurückgehen.
+Spiel entwickelt von:
+Quentin Fauré (grafische Oberfläche) & Jimmy Kipfer (Motorprogramm)
+Übersetzt von:
+Google Übersetzung
+Spieler %s ist %seme in Box %s
+Hier ist die Rangliste der Spieler:

@@ -1,0 +1,44 @@
+﻿Game game da Goose Sauƙaƙa | ISN
+Jirgin Wasanni na Goose | ISN %s
+<< Kunna >>
+<< Zaɓuɓɓuka >>
+<< Quit >>
+<< Koma zuwa babban menu >>
+<< Duba kyauta "
+<< Koma zuwa zabin >>
+Ya?
+Zaɓi harshen
+Ƙarar kiɗa
+Ƙarar sauti
+Zaɓin yawan 'yan wasan
+Daga 1 = %s | Dice 2 = %s | Ci gaban %s
+Taron #%s
+<< Fara fararen >>
+Yanayin mai kunnawa %s/%s
+Akwai na'urar %s a cikin kurkuku / lafiya
+Fara fara motsi
+Mirgine da danƙa
+<< Taimako >>
+Dark yanayin?
+Fara wasa na Goose:
+Kowace mai kunnawa ta yi wasa ta hanyar jefa dice biyu. Dangane da lambar ko lambar da aka samu, mai kunnawa yana cigaba da akwatin sa a cikin akwati.
+Akwai dokoki na wasan Goose girmamawa bisa ga yawan abin da aka yi ko da square a kan wanda shi dama.
+Bari mu dubi wadannan dokoki:
+☼ A farkon wasan, idan wani player ne 9 da 6 da kuma 3, dole ne ya motsa ya pawn nan da nan zuwa ga lamba 26. Idan yana da 9 da 4 da 5, shi zai je da lambar 53.
+☼ Idan a lokacin wasa, mai kunnawa ya faɗo a kan goyo, ya ci gaba da sake yawan maki da aka yi.
+☼ Idan mai kunnawa ya ninka 6, dole ne ya je square 12.
+☼ Mai kunnawa wanda ya faɗo a akwatin 19 wanda ya dace da wani otel dole ne ya wuce lokacin da ya juya.
+☼ A wasan wanda asashe a kan akwatin 31 m ga da kyau a jira wani player kai wannan adadin da kai ta wurin.
+☼ Duk wanda ya fadi a akwatin 42 daidai da labyrinth dole ne ya koma akwatin 30.
+☼ Wane ne ya shiga 52 matching kurkuku zai jira wani dan wasa ya zo daidai da lambar don barin.
+☼ Mai kunnawa wanda ke shiga akwatin 58 wanda ya dace da akwatin Sashin Mutuwa zai fara wasan tun daga farkon
+☼ Daya wanda aka shiga da wani player a kan wannan akwatin zai je akwatin ko dai player tsaya a gaban wasa.
+Yadda za a lashe wasan Goose:
+To lashe wasa na Goose, dole ka zama na farko a zo a kan na karshe akwatin 63 amma da ake bukata don samun tari a kan wannan akwatin.
+Idan player sa wani dan lido score fi da yawan sarari raba da nasara, shi zai ja da baya duk da karin kwalaye.
+Wasan da aka haɓaka ta:
+Quentin Fauré (mai tsara hoto) & Jimmy Kipfer (shirin mota)
+Fassarar da:
+Google Translation
+Mai kunnawa %s shine %s a cikin akwatin %s
+A nan ne matsayi na 'yan wasan:

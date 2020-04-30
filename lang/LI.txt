@@ -1,0 +1,44 @@
+﻿Supaprastintos žąsų žaidimas ISN
+Žąsų žaidimo projektas | ISN %s
+<< Play >>
+<< Funkcijos >>
+<< Baigti >>
+<< Grįžti į pagrindinį meniu >>
+<< Žr. Kreditų >>
+<< Atgal į parinktis >>
+Jo?
+Kalbos pasirinkimas
+Muzikos apimtis
+Garso efektų tūris
+Žaidėjų skaičiaus pasirinkimas
+De 1 = %s | Dice 2 = %s | %s pažanga
+Turas #%s
+<< Pradėkite žaidimą >>
+Tai žaidėjo eilė %s/%s
+Yra %s žaidėjas (-ai) kalėjime / gerai
+Pradėkite judėti pėstininkas
+Pasukite kauliukus
+<< Pagalba >>
+Tamsus režimas?
+Pradėkite žąsų žaidimą:
+Kiekvienas žaidėjas savo ruožtu vaidina du kauliukus. Priklausomai nuo skaičiaus ar gauto skaičiaus, žaidėjas perkelia savo lombardą į langelį.
+„Goose“ žaidimo taisyklės yra gerbiamos pagal skaičių, kurį daro vienas gaminys, arba langelį, ant kurio jis patenka.
+Pažvelkime į šias taisykles:
+☼ Žaidimo pradžioje, jei vienas iš žaidėjų ritė 9 ir 6, jis turi iš karto paleisti savo pėstininką į 26-ąjį skaičių.
+☼ Jei žaidimo metu, žaidėjas atsistos ant žąsų, tai vėl pažanga taškų skaičių.
+☼ Jei žaidėjas sukasi 6, jis turi eiti į aikštę 12.
+☼ Žaidėjui, kuris patenka į 19 langelį, atitinkantį viešbutį, reikia pasukti savo ruožtu 2 kartus.
+☼ žaidėjas, kuris nusėda ant 31 langelį prie šulinio laukti kito žaidėjo pasiekia tą patį numerį ir imtis savo vietą.
+☼ Kiekvienas, kuris patenka ant 42 langelį į labirintą turi grįžti į 30 langelį.
+☼ Kas eina į 52, atitinkantis kalėjimą, laukia, kol kitas žaidėjas išvyks į tą patį numerį.
+☼ Žaidėjas, kuris eina ant check 58 langelį prie kaukolės bus pradėti žaidimą nuo pat pradžių
+☼ Tas, kuris prisijungė kitam žaidėjui tame pačiame lange bus eiti į lauką arba grotuvo stovėjo išlaukti.
+Kaip laimėti žąsų žaidimą:
+Jei norite laimėti žąsų žaidimą, turite būti pirmasis, kuris atvyko į paskutinį 63 langelį, bet turi pareigą atvykti tiesiai į šį langelį.
+Tuo atveju, jei žaidėjas kauliukus nulemia aukštesnis nei vietų, atskiriančių jį nuo pergalės, skaičius, jis turės grįžti atgal tiek daug papildomų dėžių.
+Žaidimas sukurtas:
+Quentin Faure (GUI), ir Džimis Kipfer (variklis programa)
+Išvertė / su:
+"Google" vertimas
+Grotuvas %s paršavedžių %s at the box "%s"
+Čia yra žaidėjų reitingus:

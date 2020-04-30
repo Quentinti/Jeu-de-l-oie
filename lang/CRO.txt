@@ -1,0 +1,44 @@
+﻿Igra pojednostavljene guske ISN
+Projekt Goose Game | ISN %s
+<< Reproduciraj >>
+<< Opcije >>
+<< Zatvorite >>
+<< Natrag na glavni izbornik >>
+<< Vidi bodove >>
+<< Natrag na opcije >>
+Njegov?
+Izbor jezika
+Glasnoća
+Glasnoća zvučnih efekata
+Izbor broja igrača
+De 1 = %s | Kocka 2 = %s | Napredak od %s
+Obilazak #%s
+<< Započnite igru ​​>>
+To je okretanje igrača %s/%s
+U zatvoru / bunaru postoji %s igrača
+Počnite pomicati pješaka
+Okreni kockice
+<< Pomoć >>
+Tamni način?
+Započnite igru ​​Goose:
+Svaki igrač igra svoj red tako što baca dvije kockice. Ovisno o broju ili broju dobivenih, igrač napreduje svoj pijun po kutiji.
+Postoje pravila igre Goosea da se poštuju prema broju koji napravi ili kutiji na kojoj pada.
+Pogledajmo pobliže ova pravila:
+Of Na početku igre, ako jedan od igrača odigra 9 prema 6 i 3, mora odmah izvesti pješaka na broj 26. Ako učini 9 sa 4 i 5, prelazi na broj 53.
+During Ako tijekom igre igrač padne na gusku, on ponovno pomakne broj postignutih bodova.
+Roll Ako igrač okrene 6, mora ići na kvadrat.
+Who Igrač koji padne na polje 19 koji odgovara hotelu mora proći svoj red tijekom 2 okreta.
+Who Igrač koji padne na kutiju 31 koji odgovara bunaru čekat će da drugi igrač dođe do istog broja i zauzme njegovo mjesto.
+Falls Tko padne na kutiju 42 koja odgovara labirintu, nužno će se vratiti u polje 30.
+Goes Tko ide u 52 odgovarajući zatvor će pričekati da drugi igrač dođe na isti broj da ode.
+Who Igrač koji ode u kutiju 58, odgovarajući na okvir Smrtna glava, ponovno će započeti igru ​​od početka
+Ever Tko se pridruži drugom igraču na istom polju, morat će otići u kutiju u kojoj je bio drugi igrač prije igranja.
+Kako osvojiti gusku:
+Da biste pobijedili u igri Goose, morate biti prvi koji će stići na zadnju kućicu 63, ali uz obavezu da stignete pravo na ovaj okvir.
+U slučaju da igrač napravi kockicu koja je veća od broja mjesta koja ga razdvajaju od pobjede, morat će se vratiti natrag za što više dodatnih kutija.
+Igra koju je razvila:
+Quentin Fauré (grafičko sučelje) i Jimmy Kipfer (motorni program)
+Preveo:
+Google prijevod
+Player %s je %seme u okviru %s
+Ovdje je rangiranje igrača:

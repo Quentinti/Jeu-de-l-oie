@@ -1,0 +1,44 @@
+﻿Gêm yr wydd symlach | ISN
+Prosiect Gêm Goose | ISN %s
+<< Chwarae >>
+<< Opsiynau >>
+<< Quit >>
+<< Yn ôl i'r brif ddewislen >>
+<< Gweler y credydau >>
+<< Yn ôl i'r opsiynau >>
+Ei?
+Dewis iaith
+Cyfaint cerddoriaeth
+Cyfaint yr effeithiau sain
+Dewis o nifer y chwaraewyr
+De 1 = %s | Dis 2 = %s | Cynnydd %s
+Taith #%s
+<< Dechrau'r gêm >>
+Tro'r chwaraewr yw %s/%s
+Mae %s chwaraewr (wyr) yn y carchar / wel
+Dechreuwch symud y gwystl
+Rholiwch y dis
+<< Help >>
+Dull tywyll?
+Dechreuwch gêm Goose:
+Mae pob chwaraewr yn chwarae ei dro trwy daflu'r ddau ddis. Yn dibynnu ar y nifer neu'r nifer a gafwyd, mae'r chwaraewr yn symud ymlaen ei focs gwystlo yn y blwch.
+Mae yna reolau gêm Gŵyr i barchu yn ôl y nifer y mae un yn ei wneud neu'r blwch y mae un yn disgyn arno.
+Gadewch i ni edrych yn fanylach ar y rheolau hyn:
+☼ Ar ddechrau'r gêm, os yw un o'r chwaraewyr yn rholio 9 wrth 6 a 3, rhaid iddo symud ei wystl yn syth i'r rhif 26. Os bydd yn gwneud 9 erbyn 4 a 5, bydd yn mynd i'r rhif 53.
+☼ Os bydd y chwaraewr yn syrthio ar wydd, yn ystod y gêm, bydd yn bwrw ymlaen eto â nifer y pwyntiau a wnaed.
+☼ Os yw chwaraewr yn rholio 6, rhaid iddo fynd i sgwâr 12.
+☼ Rhaid i'r chwaraewr sy'n disgyn ar flwch 19 sy'n cyfateb i westy basio ei dro yn ystod 2 dro.
+☼ Bydd y chwaraewr sy'n disgyn ar flwch 31 sy'n cyfateb i'r ffynnon yn aros i chwaraewr arall gyrraedd yr un rhif a chymryd ei le.
+☼ Bydd pwy bynnag sy'n syrthio ar flwch 42 sy'n cyfateb i'r labyrinth o reidrwydd yn dychwelyd i flwch 30.
+☼ Bydd pwy sy'n mynd i 52 yn cyfateb i garchar yn aros i chwaraewr arall ddod i'r un nifer i adael.
+☼ Bydd y chwaraewr sy'n mynd i flwch 58 sy'n cyfateb i'r blwch Death's Head yn dechrau'r gêm eto o'r dechrau
+☼ Bydd yn rhaid i bwy bynnag sy'n ymuno â chwaraewr arall ar yr un blwch fynd i'r blwch lle'r oedd y chwaraewr arall cyn chwarae.
+Sut i ennill gêm Goose:
+I ennill gêm Goose, rhaid i chi fod y cyntaf i gyrraedd y blwch 63 olaf ond gyda'r rhwymedigaeth i gyrraedd yn gywir ar y blwch hwn.
+Rhag ofn y bydd y chwaraewr yn gwneud dis yn uwch na nifer y mannau sy'n ei wahanu o'r fuddugoliaeth, bydd yn rhaid iddo symud yn ôl gan gymaint o focsys ychwanegol.
+Datblygwyd y gêm gan:
+Quentin Fauré (rhyngwyneb graffigol) a Jimmy Kipfer (rhaglen modur)
+Cyfieithwyd gan:
+Google Translation
+Mae chwaraewr %s ​​yn %seme ym mlwch %s
+Dyma safle'r chwaraewyr:

@@ -1,0 +1,44 @@
+﻿Igra pojednostavljene guske | ISN
+Goose Game Project | ISN %s
+<< Reproduciraj >>
+<< Opcije >>
+<< Zatvorite >>
+<< Povratak na glavni meni >>
+<< Vidi kredite >>
+<< Natrag na opcije >>
+Njegov?
+Izbor jezika
+Obim muzike
+Zapremina zvučnih efekata
+Izbor broja igrača
+De 1 =%s | Kocka 2 =%s | Napredak %s
+Obilazak #%s
+<< Početak igre >>
+To je okretanje igrača %s/%s
+U zatvoru / bunaru postoji %s igrača
+Počni pomerati pješaka
+Okreni kockice
+<< Pomoć >>
+Dark mode?
+Započnite igru ​​Goose:
+Svaki igrač igra svoj red tako što baca dve kockice. U zavisnosti od broja ili broja koji dobije, igrač unapred svoj kutak za pešaka po kutiji.
+Postoje pravila igre Goose-a da se poštuju prema broju koji on pravi ili kutiji na kojoj pada.
+Pogledajmo bliže ova pravila:
+Of Na početku igre, ako jedan od igrača odigra 9 prema 6 i 3, on mora odmah izvesti pješaka na broj 26. Ako učini 9 sa 4 i 5, preći će na broj 53.
+During Ako tokom igre igrač padne na gusku, on ponovo pomera broj postignutih poena.
+Roll Ako igrač naiđe na 6, on mora ići na kvadrat 12.
+Who Igrač koji padne na boks 19 koji odgovara hotelu mora proći svoj red tokom 2 okreta.
+Who Igrač koji padne na kutiju 31 koji odgovara bunaru će sačekati da drugi igrač dođe do istog broja i zauzme njegovo mjesto.
+☼ Ko padne na kutiju 42 koja odgovara lavirintu, obavezno će se vratiti u polje 30.
+Goes Ko uđe u zatvor, čekaće da drugi igrač dođe na isti broj da ode.
+Who Igrač koji ode u kutiju 58 koji odgovara kvadratu Smrtna glava ponovo će početi igru ​​od početka
+Ever Ko se pridruži drugom igraču na istom polju moraće da ode do polja gde je drugi igrač bio pre nego što je igrao.
+Kako osvojiti gusku: \ t
+Da biste pobijedili u igri Goose, morate biti prvi koji će stići na zadnju kutiju 63, ali uz obavezu da stignete pravo na ovu kutiju.
+U slučaju da igrač napravi kockicu koja je veća od broja mesta koja ga razdvajaju od pobede, moraće da se vrati sa što više dodatnih kutija.
+Igra koju je razvio:
+Quentin Fauré (grafičko sučelje) i Jimmy Kipfer (motorni program)
+Preveo:
+Google Translation
+Player %s je %seme u polju %s
+Evo rangiranja igrača:

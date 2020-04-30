@@ -1,0 +1,44 @@
+﻿Game of the simplified goose | ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Options >>
+<< Quit >>
+<< Back to the main menu >>
+<< See the credits >>
+<< Back to options >>
+Sound ?
+Choice of language
+Volume of music
+Volume of sound effects
+Choice of the number of players
+De 1 =%s | Dice 2 =%s | Progress of %s
+Turn #%s
+<< Start the game >>
+It's the player's turn %s/%s
+There are %s player (s) in prison / well
+Start moving the pawn
+Roll the dice
+<< Help >>
+Dark mode?
+Start a game of Goose:
+Each player plays his turn by throwing the two dice. Depending on the number or the number obtained, the player advances his pawn box by box.
+There are rules of the game of Goose to respect according to the number that one makes or the box on which one falls.
+Let's take a closer look at these rules:
+☼ At the beginning of the game, if one of the players rolls 9 by 6 and 3, he must advance his pawn immediately to the number 26. If he does 9 by 4 and 5, he will go to the number 53.
+☼ If during the game, the player falls on a goose, he advances again the number of points made.
+☼ If a player rolls 6, he must go to square 12.
+☼ The player who falls on box 19 corresponding to a hotel must pass his turn during 2 turns.
+☼ The player who falls on box 31 corresponding to the well will wait for another player to arrive at the same number and take his place.
+☼ Whoever falls on box 42 corresponding to the labyrinth will necessarily return to box 30.
+☼ Who goes in 52 matching the prison will wait for another player to come to the same number to leave.
+☼ The player who goes to box 58 corresponding to the box Death's Head will start the game again from the beginning
+☼ Whoever is joined by another player on the same box will have to go to the box where the other player was before playing.
+How to win a game of Goose:
+To win a game of Goose, you must be the first to arrive on the last box 63 but with the obligation to arrive right on this box.
+In case the player makes a dice score higher than the number of spaces separating him from the victory, he will have to move back by as many additional boxes.
+Game developed by:
+Quentin Fauré (graphical interface) & Jimmy Kipfer (motor program)
+Translated by:
+Google Translation
+Player %s is %snd in case %s
+Here is the ranking of the players:

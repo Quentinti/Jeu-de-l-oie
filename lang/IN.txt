@@ -1,0 +1,44 @@
+﻿Game angsa yang disederhanakan | ISN
+permainan papan proyek | ISN %s
+<< Putar >>
+<< Options >>
+<< Exit >>
+<< Kembali ke menu utama >>
+<< Lihat kredit >>
+<< Kembali ke opsi >>
+-Nya?
+pemilihan bahasa
+volume musik
+Volume efek suara
+Pilihan jumlah pemain
+De 1 = %s | Dadu 2 = %s | Kemajuan %s
+Hidupkan #%s
+<< Mulai game >>
+Giliran pemain %s/%s
+Ada %s pemain di penjara / sumur
+Mulai pindahkan pion
+Melempar dadu
+<< Bantuan >>
+modus gelap?
+Mulai permainan Goose:
+Setiap pemain memainkan gilirannya dengan melemparkan dua dadu. Bergantung pada jumlah atau nomor yang diperoleh, pemain memajukan kotak gadainya demi kotak.
+Ada aturan permainan Goose yang harus dihormati sesuai dengan jumlah yang dibuat atau kotak di mana seseorang jatuh.
+Mari kita lihat lebih dekat aturan-aturan ini:
+☼ Di awal permainan, jika salah satu pemain menggulung 9 dengan 6 dan 3, ia harus segera memajukan bidaknya ke nomor 26. Jika ia melakukannya 9 dengan 4 dan 5, ia akan pergi ke nomor 53.
+☼ Jika selama pertandingan, pemain jatuh pada angsa, ia maju lagi jumlah poin yang dibuat.
+☼ Jika seorang pemain menggulung 6, ia harus pergi ke titik 12.
+☼ Pemain yang jatuh pada kotak 19 yang terkait dengan hotel harus melewati gilirannya selama 2 putaran.
+☼ Pemain yang jatuh di kotak 31 yang sesuai dengan sumur akan menunggu pemain lain tiba di nomor yang sama dan menggantikannya.
+☼ Siapa pun yang jatuh pada kotak 42 yang sesuai dengan labirin akan kembali ke kotak 30.
+☼ Siapa yang masuk 52 yang cocok dengan penjara akan menunggu pemain lain untuk datang ke nomor yang sama untuk pergi.
+☼ Pemain yang masuk ke kotak 58 yang sesuai dengan kotak Death's Head akan memulai permainan lagi dari awal
+☼ Siapa pun yang bergabung dengan pemain lain di kotak yang sama harus pergi ke kotak di mana pemain lain itu sebelum bermain.
+Cara memenangkan permainan Goose:
+Untuk memenangkan permainan Goose, Anda harus menjadi yang pertama tiba di kotak terakhir 63 tetapi dengan kewajiban untuk tiba tepat di kotak ini.
+Jika pemain membuat skor dadu lebih tinggi dari jumlah ruang yang memisahkannya dari kemenangan, ia harus mundur sebanyak kotak tambahan.
+Game yang dikembangkan oleh:
+Quentin Fauré (antarmuka grafis) & Jimmy Kipfer (program motor)
+Diterjemahkan oleh / dengan:
+Google Terjemahan
+Player %s adalah %seme di kotak %s
+Berikut adalah peringkat para pemain:

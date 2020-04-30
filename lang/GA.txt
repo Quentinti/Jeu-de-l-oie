@@ -1,0 +1,44 @@
+﻿Geam an gèadh nas sìmplidhe | ISN
+Pròiseact Geòidh Goose | ISN %s
+<< Play >>
+<< Roghainnean >>
+<< Quit >>
+<< Air ais chun a ’phrìomh chlàr-taice >>
+<< Faic na creideasan >>
+<< Air ais gu na roghainnean >>
+A chuid?
+Roghainn cànain
+Àireamh ciùil
+Meud nam fuaim
+Roghainn den àireamh de chluicheadairean
+De 1 = %s | Dice 2 = %s | Adhartas %s
+Cuairt #%s
+<< Tòisich an geama >>
+Seo tionndadh an cluicheadair %s/%s
+Tha %s cluicheadair anns a ’phrìosan / math
+Tòisich a ’gluasad a’ gluasad
+Rolaig an dìsinn
+<< Cuideachadh >>
+Modh dorcha?
+Tòisich geama de Gheòidh:
+Bidh gach cluicheadair a 'cluich a chas le bhith a ’tilgeil an dà dhìsinn. A rèir an àireamh no an àireamh a fhuaireadh, bidh an cluicheadair a ’dol air adhart anns a’ bhogsa saighdean anns a ’bhogsa.
+Tha riaghailtean a ’gheam mu ghèadh a rèir an àireamh a nì neach no am bogsa air a bheil aon tuiteam.
+Nach toir sinn sùil nas mionaidiche air na riaghailtean seo:
+☼ Aig toiseach a ’gheama, ma tha aon de na cluicheadairean a’ roinneadh 9 le 6 agus 3, feumaidh e air a iteach a ghluasad gun dàil gu àireamh 26. Ma nì e 9 le 4 agus 5, thèid e gu àireamh 53.
+☼ Ma tha an cluicheadair a ’tuiteam air a’ ghèam, bidh e a ’dol air adhart a-rithist an àireamh de phuingean a chaidh a dhèanamh.
+☼ Ma thig cluicheadair 6 a-steach, feumaidh e a dhol gu ceàrnag 12.
+Must Feumaidh an cluicheadair a thuiteas air bocsa 19 a tha co-ionann ri taigh-òsta a thionndadh a thoirt seachad aig 2 uair.
+Wait Bidh an cluicheadair a tha a ’tuiteam air bogsa 31 a tha co-fhreagarrach ris an tobar a’ feitheamh airson cluicheadair eile a thighinn chun an aon àireamh agus àite a ghabhail.
+Necessarily Mura tig neach a tha a ’tuiteam air a’ bhogsa 42 a tha co-fhreagarrach ris an labyrinth, tillidh e gu bogsa 30.
+☼ Cò a bhios a ’dol ann an 52 bidh am prìosan coltach ri cluicheadair eile gus an tig an aon àireamh airson falbh.
+Start Tòisichidh an cluicheadair a tha a ’dol gu bogsa 58 a tha co-ionann ris a’ bhogsa Death's Head an geama a-rithist bhon toiseach
+To Cò aig a bheil cluicheadair eile còmhla ris air an aon bhogsa, feumaidh e a dhol chun a ’bhogsa far an robh an cluicheadair eile ro chluich.
+Mar a bhuannaicheas tu gèam de Gheòidh:
+Gus geama de Gheòidh a bhuannachadh, feumaidh tu a bhith mar a ’chiad bhratach airson am bogsa mu dheireadh 63 ach leis an dleastanas a bhith a’ ruigsinn air a ’bhogsa seo.
+Ma tha an cluicheadair a ’dèanamh dìsinn nas àirde na an àireamh de dh'àiteachan a tha ga sgaradh bhon bhuannachadh, feumaidh e gluasad air ais le nas motha de na bogsaichean a bharrachd.
+Cluiche air a leasachadh le:
+Quentin Fauré (eadar-aghaidh grafaigeach) & Jimmy Kipfer (prògram motair)
+Air eadar-theangachadh le:
+Google Translation
+Tha an %s cluicheadair %seme ann am bogsa %s
+Seo inbhe nan cluicheadairean:

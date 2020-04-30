@@ -1,0 +1,44 @@
+﻿Antzara sinplifikatuaren jokoa ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Aukerak >>
+<< Irten >>
+<< Itzuli menu nagusira >>
+<< Ikusi kredituak >>
+<< Itzuli aukerak >>
+Bere?
+Hizkuntza aukeratzea
+Musika bolumena
+Soinu efektuen bolumena
+Jokalari kopurua aukeratzea
+De 1 = %s | Dice 2 = %s %s aurrerapena
+Bira #%s
+<< Hasi jokoa >>
+Jokalariaren %s/%s txanda da
+%s jokalari daude kartzelan / ondo
+Hasi peoia mugitzen
+Kargatu dadoak
+<< Laguntza >>
+Modu iluna?
+Hasi antzara jokoa:
+Jokalari bakoitzak bere txanda jotzen du bi dadoak botatuz. Lortutako zenbakiaren edo zenbakiaren arabera, jokalariek peoiari dagokion kutxa by aurreratuko dute.
+Goose jokoaren arauak badira norberak egiten dituen zenbakiaren arabera edo erortzen den koadroari dagokionez.
+Ikus dezagun arau hauek:
+, Partida hasieran, jokalari batek 9 eta 6 bota ondoren, bere peoia berehala bultzatu behar du 26. zenbakia 9 eta 4 bitartez egiten badu, 53 zenbakira joango da.
+, Partidan zehar antzerkian eroriko den jokalariak, berriz, puntu kopuruaren aurrerapena egiten du.
+Roll Jokalari batek 6 bota badu, 12 plazara joan behar du.
+Must Hotel bateko 19 koadroan erortzen den jokalariak bere txanda gainditu behar du bi txandetan.
+Will Ontzirako dagokion 31 koadroan erortzen den jokalaria beste jokalari kopuru berdinarengana iritsiko da eta bere lekua hartuko du.
+Inth Labirintoari dagokion 42. koadroan erortzen dena 30 koadroan itzuliko da nahitaez.
+Will Espetxearekin batera datorren 52 lagunek beste jokalari kopuru berbera joateko itxaron beharko du.
+Corresponding Death's Head koadroari dagozkion 58. koadroan jotzen duen jokalariak hasieratik hasiko da
+Will Koadro berdinean beste jokalari batekin bat egiten dutenak beste jokalaria jokatu aurretik zeukan laukira joan beharko du.
+Nola irabazi Goose joko bat:
+Antzara partida bat irabazteko, lehen 63. koadroan iritsiko zaren lehenengoa izan behar duzu baina kutxa honetan iritsiko zara betebeharra.
+Jokalariak garaipenetik bereizten dituen espazioen kopuruak baino puntuazio handiagoa lortzen badu, atzera egin beharko du beste hainbat laukitxo.
+Garatutako jokoa:
+Quentin Fauré (interfaze grafikoa) eta Jimmy Kipfer (motor programa)
+Itzulita:
+Google Itzulpena
+%s jokalaria %seme %s koadroan dago
+Hona hemen jokalarien sailkapena:

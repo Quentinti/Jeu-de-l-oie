@@ -1,0 +1,44 @@
+﻿Game of the simplified goose | ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Valg >>
+<< Afslut >>
+<< Tilbage til hovedmenuen >>
+<< Se kreditterne >>
+<< Tilbage til muligheder >>
+Hans?
+Valg af sprog
+Volumen af ​​musik
+Lydstyrkevolumen
+Valg af antal spillere
+De 1 = %s | Terninger 2 = %s | Fremskridt på %s
+Tour #%s
+<< Start spillet >>
+Det er spillerens tur %s/%s
+Der er %s afspiller (er) i fængsel / brønd
+Begynd at flytte bonden
+Rul terningerne
+<< Hjælp >>
+Mørk tilstand?
+Start et spil Goose:
+Hver spiller spiller sin tur ved at kaste de to terninger. Afhængigt af nummeret eller det opnåede nummer, forløber spilleren sin bænkboks pr. Boks.
+Der er regler for spillet Goose at respektere i henhold til det nummer, man laver eller den boks, hvorpå man falder.
+Lad os se nærmere på disse regler:
+☼ I starten af ​​spillet, hvis en af ​​spillerne ruller 9 til 6 og 3, skal han straks forlænge sin bonde til nummer 26. Hvis han gør 9 ved 4 og 5, går han til nummer 53.
+☼ Hvis spilleren i løbet af spillet falder på en gås, går han igen på antallet af point.
+☼ Hvis en spiller ruller 6, skal han gå til firkant 12.
+☼ Den spiller, der falder på boks 19 svarende til et hotel, skal passere sin tur i 2 omgange.
+☼ Den spiller, der falder i boks 31 svarende til brønden, vil vente på, at en anden spiller kommer frem til samme nummer og tager plads.
+☼ Den, der falder på boks 42 svarende til labyrinten, kommer nødvendigvis tilbage til boks 30.
+☼ Hvem går i 52, der matcher fængslet, venter på, at en anden spiller kommer til det samme nummer for at forlade.
+☼ Den spiller, der går til boks 58 svarende til boksen Death's Head, starter spillet igen fra starten
+☼ Den, der er sammen med en anden spiller i samme kasse, skal gå til kassen, hvor den anden spiller var før han spillede.
+Hvordan man vinder et spil Goose:
+For at vinde et spil Goose skal du være den første, der kommer til den sidste boks 63, men med forpligtelsen til at ankomme lige på denne boks.
+Hvis spilleren gør en terning score højere end antallet af mellemrum, der adskiller ham fra sejren, bliver han nødt til at bevæge sig tilbage med så mange ekstra kasser.
+Spil udviklet af:
+Quentin Fauré (grafisk grænseflade) & Jimmy Kipfer (motor program)
+Oversat af:
+Google Oversættelse
+Player %s er %seme i boks %s
+Her er placeringen af ​​spillerne:

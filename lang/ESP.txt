@@ -1,0 +1,44 @@
+﻿Ludo de la simpligita ansero | ISN
+Goose Game Project | ISN %s
+<< Ludu >>
+<< Ebloj >>
+<< Forlasu >>
+<< Reen al la ĉefa menuo >>
+<< Vidu la kreditojn >>
+<< Reen al opcioj >>
+Lia?
+Elekto de lingvo
+Volumo de muziko
+Volumo de voĉaj efikoj
+Elekto de la nombro de ludantoj
+De 1 = %s | 2etkuboj 2 = %s | Progreso de %s
+Tour #%s
+<< Komenci la ludon >>
+I estas la vico de la ludanto %s/%s
+Estas %s ludanto (j) en malliberejo / puto
+Komencu movi la peonon
+Ruligu la ĵetkubojn
+<< Helpo >>
+Malluma reĝimo?
+Komencu ludon de Ansero:
+Ĉiu ludanto ludas sian turnon per ĵetado de la du ĵetkuboj. Depende de la nombro aŭ de la nombro ricevita, la ludanto antaŭeniras sian peĉzonon per skatolo.
+Estas reguloj de la ludo de Ansero por respekti laŭ la nombro kiun oni faras aŭ la skatolon sur kiu falas.
+Ni rigardu pli proksime ĉi tiujn regulojn:
+☼ Je la komenco de la ludo, se unu el la ludantoj ruliĝas 9 per 6 kaj 3, li devas antaŭeniri sian peonon tuj al la numero 26. Se li faros 9 per 4 kaj 5, li iros al la numero 53.
+Se dum la ludo la ludanto falas sur ansero, li denove antaŭeniras la nombron da punktoj.
+☼ Se ludanto ruliĝas 6, li devas iri al kvadrato 12.
+La ludanto, kiu falas sur la keston 19, kiu respondas al hotelo, devas pasigi sian turnon dum 2 turnoj.
+La ludanto, kiu falas sur la keston 31, kiu respondas al la puto, atendos, ke alia ludanto alvenu al la sama nombro kaj okupu lian lokon.
+☼ Kiu falas sur la keston 42, kiu respondas al la labirinto, nepre revenos al la kesto 30.
+☼ Kiu iras en 52 kongruas kun la malliberejo atendos, ke alia ludanto venu al la sama nombro por foriri.
+☼ La ludanto, kiu iras al la skatolo 58 responda al la skatolo Death's Head komencos la ludon denove de la komenco
+☼ Kiu aliĝas al alia ludanto sur la sama skatolo, ĝi devos iri al la kesto kie la alia ludanto antaŭ ludis.
+Kiel gajni ludon de Ansero:
+Por gajni ludon de Ansero, vi devas esti la unua, kiu alvenos al la lasta skatolo 63, sed kun la devo alveni rekte sur ĉi tiun skatolon.
+En la okazo, ke la ludanto gajnas pluspunkton ol la nombro da spacoj apartigantaj lin de la venko, li devos retiriĝi per tiom da aldonaj skatoloj.
+Ludo disvolvita de:
+Quentin Fauré (grafika interfaco) & Jimmy Kipfer (motoro programo)
+Tradukita de:
+Tradukado de Google
+Ludanto %s estas %seme en kesto %s
+Jen la rango de ludantoj:

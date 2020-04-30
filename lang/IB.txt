@@ -1,0 +1,44 @@
+﻿Egwuregwu nke mfe goo | ISN
+Ọrụ Egwuregwu Gọọmentị | ISN %s
+<< Play >>
+<< Nhọrọ >>
+<< Quit >>
+<< Gaa na isi menu >>
+<< Lee ihe e dere na ya
+<< Gaa na nhọrọ >>
+Ya?
+Ịhọrọ asụsụ
+Mpịakọta nke egwu
+Mpịakọta nke mmetụta utịp
+Nhọrọ nke ọnụ ọgụgụ ndị egwuregwu
+De 1 = %s | Dice 2 = %s | Ọganihu %s
+Ntugharị #%s
+<< Malite egwuregwu >>
+Ọ bụ ọkpụkpọ onye ọkpụkpọ %s/%s
+Enwere %s player (s) n'ụlọ mkpọrọ / ọma
+Malite na-akpụgharị pawn
+Gbanye ya
+<< Enyemaka >>
+Ọnọdụ ọchịchịrị?
+Malite egwuregwu nke Goose:
+Onye ọ bụla ọkpụkpọ na-egwu oge ya site n'itinye abụọ dice. Dabere na ọnụọgụgụ ma ọ bụ ọnụọgụgụ ahụ, onye ọkpụkpọ ahụ na-enwe ọganihu ya site na igbe.
+E nwere iwu nke egwuregwu ọgazị ùgwù dị ka ọnụ ọgụgụ na e mere ma ọ bụ na-square na nke ya na-ada.
+Ka anyị lebakwuo anya na iwu ndị a:
+☼ Na mmalite nke egwuregwu, ma ọ bụrụ na a player bụ 9 site 6 na nke 3, ọ ga-akpali ya pawn ozugbo ka ọnụ ọgụgụ 26 Ọ bụrụ na ọ bụ 9 site 4 na nke 5, ọ ga-aga nọmba 53.
+☼ Ọ bụrụ na mgbe egwuregwu ahụ, ọkpụkpọ ahụ dabara na ọgazị, ọ ga-aga n'ihu na ọnụọgụgụ isi ihe.
+☼ Ọ bụrụ na ọkpụkpọ na-apụta 6, ọ ghaghị ịga square 12.
+☼ Onye ọkpụkpọ nke dabara na igbe 19 nke kwekọrọ na ụlọ nkwari akụ ga-agafe oge ya mgbe ọ na-enyo.
+☼ The player onye ala na igbe 31 kwekọrọ na-eche nke ọma ọzọ player esịmde otu nọmba na iweghara ọnọdụ.
+☼ Onye ọ bụla daa na igbe 42 nke kwekọrọ na ya ga-alaghachi igbe 30.
+☼ Onye na-aga 52 na ụlọ mkpọrọ ga-echere onye ọkpụkpọ ọzọ ka ọ bịa n'otu ọnụ ọgụgụ ịhapụ.
+☼ Onye ọkpụkpọ na-aga igbe 58 bụ nke kwekọrọ na igbe Onye Ọnwụ ga-amalite egwuregwu ahụ site na mmalite
+☼ Onye sonyeere ọzọ player na otu igbe ga-aga igbe ma player guzo n'ihu na-akpọ.
+Esi merie egwuregwu nke Goose:
+Iji nweta a egwuregwu nke ọgazị, ị ga-abụ ndị mbụ rutere na nke ikpeazụ igbe 63 ma na chọrọ iji nweta tojupụtara a igbe.
+Ọ bụrụ na ihe ọkpụkpọ na-eme ka a ludo Akara elu karịa ọnụ ọgụgụ nke oghere kewara ndị mmeri, ọ ga-ndabere nile extra igbe.
+Egwuregwu mepụtara site na:
+Quentin Fauré (graphical interface) & Jimmy Kipfer (usoro iheomume)
+A sụgharịrị ya:
+Google Translation
+Player %s bụ %seme na igbe %s
+Nke a bụ ogo nke ndị egwuregwu:

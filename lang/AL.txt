@@ -1,0 +1,44 @@
+﻿Lojë e patë e thjeshtuar. | ISN
+Projekti i Goose Game ISN %s
+<< Luaj >>
+<< Mundësi >>
+<< Dilni >>
+<< Kthehu te menuja kryesore >>
+<< Shihni kreditë >>
+<< Kthehu tek opsionet >>
+E tij?
+Zgjedhja e gjuhës
+Vëllimi i muzikës
+Vëllimi i efekteve të zërit
+Zgjedhja e numrit të lojtarëve
+De 1 =%s | Zare 2 =%s | Progresi i%s
+Turneu #%s
+<< Filloni lojën >>
+Është faji i lojtarit %s/%s
+Ka lojtarë (s) %s në burg / pus
+Filloni të lëvizni pengun
+Roll zare
+<< Ndihmë >>
+Modaliteti i errët?
+Fillo një lojë e Goose:
+Çdo lojtar luan rolin e tij duke hedhur dy zare. Në varësi të numrit ose numrit të fituar, lojtari e avancon kutinë e tij të pengut nga kutia.
+Ka rregulla të lojës së Goose për të respektuar sipas numrit që e bën ose kutinë në të cilën bie.
+Le të bëjmë një vështrim më të afërt në këto rregulla:
+☼ Në fillim të lojës, nëse një nga lojtarët rrotullon 9 me 6 dhe 3, ai duhet ta çojë menjëherë pengun e tij në numrin 26. Nëse ai bën 9 me 4 dhe 5, ai do të shkojë në numrin 53.
+☼ Nëse gjatë lojës, lojtari bie në një patë, ai përparon përsëri numrin e pikave të bëra.
+☼ Nëse një lojtar rrotullon 6, ai duhet të shkojë në katrorin 12.
+☼ Lojtari që bie në kutinë 19 që korrespondon me një hotel duhet të kalojë nga ana e tij gjatë 2 kthesave.
+☼ Lojtari që bie në kutinë 31 që korrespondon me pusin do të presë që një lojtar tjetër të arrijë në të njëjtin numër dhe të zërë vendin e tij.
+☼ Kushdo që bie në kutinë 42 që korrespondon me labirintin do të kthehet domosdoshmërisht në kutinë 30.
+☼ Kush shkon në 52 që përputhen me burgun do të presë që një lojtar tjetër të vijë në të njëjtin numër për t'u larguar.
+☼ Lojtari që shkon në kutinë 58 që korrespondon me kutinë Head of Death do të fillojë lojën përsëri nga fillimi
+☼ Cilido që bashkohet nga një lojtar tjetër në të njëjtën kuti, do të duhet të shkojë në kutinë ku lojtari tjetër ishte para se të luante.
+Si të fitosh një lojë të Goose:
+Për të fituar një lojë të Goose, ju duhet të jeni i pari që do të arrini në kutinë e fundit 63, por me detyrimin për të arritur drejtë në këtë kuti.
+Në rast se lojtari bën një rezultat zeri më të lartë se sa numri i hapësirave që e ndajnë atë nga fitorja, ai do të duhet të shkojë mbrapa me sa më shumë kuti shtesë.
+Lojë e zhvilluar nga:
+Quentin Fauré (ndërfaqe grafike) & Jimmy Kipfer (program motorik)
+Perkthyer nga:
+Përkthimi i Google
+Lojtari %s është %semë në kutinë %s
+Këtu është renditja e lojtarëve:

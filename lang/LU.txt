@@ -1,0 +1,44 @@
+﻿Spill vun der vereinfacht Gänse | iwwerall
+Goose Spill Project | ISN %s
+<< Riicht >>
+<< Optiounen >>
+<< Quit >>
+<< Zréck op den Haaptmenu >>
+<< Kuckt d'Credits >>
+<< Zréck op Optiounen >>
+Seng?
+Wiel vun der Sprooch
+Volumen vu Musek
+Volumen vun Touneffekt
+Choix vun der Zuel vu Spiller
+De 1 = %s | Dice 2 = %s | Progress vun %s
+Tour #%s
+<< Stinn d'Spill >>
+Et ass de Spiller vun %s/%s
+Et gëtt %s Spiller (en) am Prisong / gutt
+Fänkt d'Bewegung vum Bauer fort
+Roll d'Wierfelen
+<< Hëllef >>
+Däischter Modus?
+Gitt e Spill vu Goose:
+Jiddwer Spiller spillt säin Zuch duerch déi zwee Würfel. Ofhängeg vun der Unzuel oder der Unzuel vun der Nummer kritt de Spiller seng Bauerekëscht op Box.
+Et gi Regele vun der Goose-Spill fir ze respektéieren no der Nummer déi een mécht oder d'Box op deem een ​​fällt.
+Loosst eis e bësse méi no kucken wéi dës Regelen:
+☼ Am Ufank vum Spill, wann ee vun de Spiller 9 duerch 6 an 3 fiert, muss hie seng Pëtz direkt un d'Nummer 26 virstellen. Wann hien 9 vun 4 a 5 mécht, da geet hien op d'Nummer 53.
+☼ Wann de Spiller während dem Match op eng Goose fällt, fiert hien erëm d'Zuel vun Punkten.
+☼ Wann e Spiller 6 fiert, da muss en op de kuerzege Fall 12 goen.
+De Spiller, deen op Kockel 19 stëmmt, deen e Hotel entsprëcht, muss 2 Auer ëmgedréint ginn.
+De Spiller, deen op Kockel 31 fällt mat dem Brunnen, waart op eng aner Spiller un déi selwecht Telefonsnummer ofzeginn a senger Plaz stattfënnt.
+☼ Dee fällt op d'Këscht 42 déi dem Labyrinth entsprécht ëmmer nees an d'Këscht 30 zréck.
+De Manga, deen an 52 de Prisong passéiert ass, waart op en anere Spiller fir déi selwecht Nummer ze goen fir ze verloossen.
+De Spiller, deen an d'Këscht 58 an de Këscht geet, deen de Këscht fäerdeg ass, fänkt d'Wieder vun Ufank un erëm
+☼ Deejéinegen deen vun engem anere Spiller op deem selwechte Këscht verbonnen ass, muss an d'Këscht goen, wou de anere Spill scho vir gespillt huet.
+Wéi gewënnt ee Spill vu Goose:
+Fir datt Dir eng Goose Spill gewënnt, musst Dir als éischt d'lescht Box ukommen, awer mat der Verpflichtung un dësem Feld ukomm.
+Wann de Spiller en Würfel Score méi héich wéi d'Zuel vun de Freiraimspartner vun der Victoire huet, da muss hien och erëm sou vill wéi aner Boxen réckelen.
+Spill entwéckelt:
+Quentin Fauré (graphesch Interface) & Jimmy Kipfer (Motorprogramm)
+Iwwersetzt duerch:
+Google Iwwersetzung
+Player %s ass %sEM in Këscht %s
+Hei ass de Ranking vun de Spiller:

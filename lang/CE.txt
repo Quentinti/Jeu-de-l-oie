@@ -1,0 +1,44 @@
+﻿Ang dula sa gipayano nga gansa ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Mga Opsyon >>
+<< Hunong >>
+<< Balik sa main menu >>
+<< Tan-awa ang mga credits >>
+<< Balik sa mga kapilian >>
+Ang iya?
+Pagpili sa pinulongan
+Ang gidaghanon sa musika
+Ang gidaghanon sa maayong mga epekto
+Pagpili sa gidaghanon sa mga magdudula
+De 1 =%s | Dice 2 =%s | Pag-uswag sa %s
+Tour #%s
+<< Sugdi ang dula >>
+Kini ang turn sa player %s/%s
+Adunay mga %s player (s) sa prisohan / maayo
+Sugdi ang pagbalhin sa pawn
+Paligdi ang dice
+<< Tabang >>
+Gitagoan nga mode?
+Sugdi ang dula sa Goose:
+Ang matag magdudula magdula sa iyang turno pinaagi sa paglabay sa duha ka dice. Depende sa gidaghanon o gidaghanon nga nakuha, ang player mag-asdang sa iyang pawn box pinaagi sa kahon.
+Adunay mga lagda sa dula sa Goose nga gitahud sumala sa gidaghanon nga gihimo sa usa o ang kahon nga nahulog.
+Atong susihon ang mga lagda:
+☼ Sa sinugdanan sa duwa, kung ang usa sa mga magdudula mag-igo sa 9 sa 6 ug 3, kinahanglan nga i-asdang ang iyang pawn dayon sa numero 26. Kon siya mag-9 sa 4 ug 5, siya moadto sa numero 53.
+☼ Kon sa panahon sa dula, ang player nahulog sa usa ka goose, gipauswag niya pag-usab ang gidaghanon sa mga puntos nga gihimo.
+☼ Kon ang usa ka magdudula mag-ulan 6, kinahanglan siya moadto sa square 12.
+☼ Ang magdudula nga nahulog sa kahon 19 nga katumbas sa usa ka hotel kinahanglang molabay sa iyang turno sa duha ka turno.
+☼ Ang magdudula nga nahulog sa kahon 31 nga katumbas sa atabay maghulat sa laing magdudula nga moabut sa samang numero ug mopuli sa iyang dapit.
+☼ Si bisan kinsang mahulog sa kahon 42 nga katumbas sa labirint kinahanglan mobalik sa kahon 30.
+☼ Kinsay moadto sa 52 ka matching sa bilanggoan maghulat alang sa laing magdudula nga moadto sa sama nga numero aron mobiya.
+☼ Ang magdudula nga moadto sa kahon nga katumbas sa kahon sa Death's Head magsugod na usab sa dula gikan sa sinugdanan
+☼ Si bisan kinsa nga kauban sa laing magdudula sa sama nga kahon kinahanglan nga moadto sa kahon diin ang laing magdudula sa wala pa magdula.
+Unsaon sa pagdaug sa usa ka dula sa Goose:
+Aron makadaog sa usa ka dula sa Goose, kinahanglan nga ikaw ang una nga moabut sa katapusang kahon 63 apan uban sa obligasyon nga moabut sa tukmang kahon niini nga kahon.
+Kon ang magdudula maghimo sa dice score nga mas taas kay sa gidaghanon sa mga luna nga nagbulag kaniya gikan sa kadaugan, siya kinahanglan nga mobalik sa dugang nga mga kahon.
+Dula nga gimugna sa:
+Quentin Fauré (graphical interface) & Jimmy Kipfer (motor nga programa)
+Gihubad sa:
+Google Translation
+Ang Player %s mao ang %seme sa kahon %s
+Ania ang ranggo sa mga magdudula:

@@ -1,0 +1,44 @@
+﻿Masewera a tsekwe zosavuta | ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Zosankha >>
+<< Siyani >>
+<< Kubwereranso ku menu main >>
+<< Onani ziwongoladzanja >>
+<< Bwererani kuzinthu >>
+Wake?
+Kusankha chinenero
+Vuto la nyimbo
+Volume of sound effects
+Kusankha kwa chiwerengero cha osewera
+De 1 =%s | Dice 2 =%s | Kupita patsogolo kwa %s
+Ulendo #%s
+<< Yambitsani masewera >>
+Ndiwotembenuza %s/%s
+Pali %s sewero (s) m'ndende / bwino
+Yambani kusuntha pawn
+Sungani madontho
+<< Thandizo >>
+Mdima wamdima?
+Yambani maseŵera a Goose:
+Wosewera amaseŵera nthawi yake poponya mawiri awiri. Malingana ndi chiwerengero kapena chiwerengero chomwe amachipeza, wosewera mpira amasewera bokosi lake pa bokosi.
+Pali malamulo a masewera a Goose kulemekeza molingana ndi chiwerengero chimene munthu amapanga kapena bokosi limene likugwa.
+Tiyeni tiwone bwinobwino malamulo awa:
+✓ Kumayambiriro kwa masewerawo, ngati mmodzi mwa osewerawo atapitirira 9 ndi 6, ayenera kupititsa patsogolo pake pomwepo mpaka chiwerengero cha 26. Ngati apanga 9 ndi 4, adzapita ku nambala 53.
+✓ Ngati pa masewerawo, wosewerawo akugwera pa tsekwe, amapitanso patsogolo chiwerengero cha mfundozo.
+✓ Ngati wosewera mpira akudutsa 6, ayenera kupita kumalo 12.
+✓ Wochita maseŵera amene amagwera pa bokosi 19 lofanana ndi hotelo ayenera kudutsa nthawi yake nthawi yachiwiri.
+✓ Wochita maseŵera amene amagwera pa bokosi 31 lofanana ndi chitsime akuyembekezera wina wosewera mpira kuti afike nambala yomweyo ndi kutenga malo ake.
+☼ Aliyense amene agwera pa bokosi 42 lofanana ndi labyrinth adzabweranso ku bokosi 30.
+☼ Amene amapita mkati 52 akufanana ndi ndende akuyembekezera wina wosewera kuti abwere nambala yomweyo kuti achoke.
+✓ Wochita maseŵera omwe amapita ku bokosi 58 akugwirizana ndi bokosi la Death's Head ayambanso masewerawo kuyambira pachiyambi
+☼ Aliyense amene akuphatikizidwa ndi osewera wina pa bokosi lomwelo adzayenera kupita ku bokosi pomwe wosewera mpira uja asanathe kusewera.
+Mmene mungapezere masewera a Goose:
+Kuti mupambane masewera a Goose, muyenera kukhala woyamba kufika pa bokosi lomaliza 63 koma muli ndi udindo wofika pabokosili.
+Ngati wochita maseŵerayo akupanga mapikidwe apamwamba kuposa chiwerengero cha mipata yolekanitsa iye ku chigonjetso, adzayenera kubwereranso ndi mabokosi ena ochuluka.
+Masewera otengedwa ndi:
+Quentin Fauré (graphical interface) ndi Jimmy Kipfer (pulogalamu yamoto)
+Yamasuliridwa ndi:
+Google Translation
+Mnyamata %s ndi %same mu bokosi %s
+Pano pali udindo wa osewera:

@@ -1,0 +1,44 @@
+﻿Permainan angsa yang mudah dipermudahkan | ISN
+Projek Permainan Goose | ISN %s
+<< Main >>
+<< Pilihan >>
+<< Berhenti >>
+<< Kembali ke menu utama >>
+<< Lihat kredit >>
+<< Kembali ke pilihan >>
+Nya?
+Pilihan bahasa
+Jumlah muzik
+Jumlah kesan bunyi
+Pilihan bilangan pemain
+De 1 = %s | Dadu 2 = %s | Kemajuan %s
+Lawatan #%s
+<< Mulai permainan >>
+Putaran pemain %s/%s
+Terdapat %s pemain dalam penjara / telaga
+Mula memindahkan bidak itu
+Gulungkan dadu
+<< Bantuan >>
+Mod gelap?
+Mulakan permainan Goose:
+Setiap pemain memainkan gilirannya dengan membuang dua dadu. Bergantung kepada nombor atau nombor yang diperoleh, pemain memajukan kotak pajaknya mengikut kotak.
+Terdapat peraturan permainan Goose untuk menghormati mengikut nombor yang dibuat atau kotak yang mana jatuh.
+Mari kita lihat lebih dekat dengan peraturan ini:
+☼ Pada permulaan permainan, jika salah seorang pemain menginjak 9 oleh 6 dan 3, dia mesti memajukan bidaknya dengan segera ke nombor 26. Jika dia melakukan 9 oleh 4 dan 5, dia akan pergi ke nombor 53.
+☼ Jika semasa permainan, pemain jatuh pada angsa, dia memajukan lagi jumlah mata yang dibuat.
+☼ Jika seorang pemain gulung 6, dia mesti pergi ke persegi 12.
+☼ Pemain yang jatuh pada kotak 19 sepadan dengan hotel mesti lulus gilirannya semasa 2 pusingan.
+☼ Pemain yang jatuh pada kotak 31 sepadan dengan telaga akan menunggu pemain lain tiba di nombor yang sama dan mengambil tempatnya.
+☼ Siapa pun jatuh pada kotak 42 yang bersamaan dengan labirin itu semestinya akan kembali ke kotak 30.
+☼ Siapa yang masuk dalam 52 padanan penjara akan menunggu pemain lain datang ke nombor yang sama untuk pergi.
+☼ Pemain yang masuk ke kotak 58 sepadan dengan kotak Death's Head akan memulakan permainan sekali lagi dari awal
+☼ Siapa yang disertai oleh pemain lain pada kotak yang sama mesti pergi ke kotak di mana pemain lain sebelum bermain.
+Bagaimana untuk memenangi permainan Goose:
+Untuk memenangi permainan Goose, anda mestilah yang pertama tiba di kotak terakhir 63 tetapi dengan kewajipan untuk tiba tepat pada kotak ini.
+Sekiranya pemain membuat skor dadu lebih tinggi daripada jumlah ruang yang memisahkannya dari kemenangan, dia akan perlu kembali dengan banyak kotak tambahan.
+Permainan yang dibangunkan oleh:
+Quentin Fauré (antara muka grafik) & Jimmy Kipfer (program motor)
+Diterjemahkan oleh:
+Terjemahan Google
+Player %s adalah %seme dalam kotak %s
+Inilah peringkat pemain:

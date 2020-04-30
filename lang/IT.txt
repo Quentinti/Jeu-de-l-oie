@@ -1,0 +1,44 @@
+﻿Gioco dell'oca semplificata | ISN
+Goose Game Project | ISN %s
+<< Riproduci >>
+<< Opzioni >>
+<< Esci >>
+<< Torna al menu principale >>
+<< Vedi i crediti >>
+<< Torna alle opzioni >>
+Suo ?
+Scelta della lingua
+Volume della musica
+Volume degli effetti sonori
+Scelta del numero di giocatori
+De 1 = %s | Dadi 2 = %s | Avanzamento di %s
+Tour #%s
+<< Avvia il gioco >>
+È il turno del giocatore %s/%s
+Ci sono %s player (s) in prigione / pozzo
+Inizia a muovere il pedone
+Tira i dadi
+<< Aiuto >>
+Modalità oscura?
+Inizia una partita di Goose:
+Ogni giocatore gioca il suo turno lanciando i due dadi. A seconda del numero o del numero ottenuto, il giocatore fa avanzare la sua casella di pedone per casella.
+Ci sono regole del gioco dell'oca da rispettare in base al numero che si fa o alla casella su cui si cade.
+Diamo un'occhiata più da vicino a queste regole:
+☼ All'inizio della partita, se uno dei giocatori tira 9 per 6 e 3, deve avanzare immediatamente il suo pedone al numero 26. Se fa 9 per 4 e 5, andrà al numero 53.
+☼ Se durante il gioco, il giocatore cade su un'oca, fa nuovamente il numero di punti effettuati.
+☼ Se un giocatore ottiene 6, deve andare al quadrato 12.
+☼ Il giocatore che rientra nella casella 19 corrispondente ad un hotel deve passare il suo turno durante 2 turni.
+☼ Il giocatore che rientra nella casella 31 corrispondente al pozzo attenderà che un altro giocatore arrivi allo stesso numero e prenda il suo posto.
+☼ Chi cade sulla casella 42 corrispondente al labirinto tornerà necessariamente al riquadro 30.
+☼ Chi entra nel 52 che corrisponde alla prigione aspetterà che un altro giocatore arrivi allo stesso numero per andarsene.
+☼ Il giocatore che va alla casella 58 corrispondente alla casella Death's Head ricomincerà il gioco dall'inizio
+☼ Chiunque sia raggiunto da un altro giocatore nella stessa casella dovrà andare nella casella in cui si trovava l'altro giocatore prima di giocare.
+Come vincere una partita di Goose:
+Per vincere una partita di Goose, devi essere il primo ad arrivare sull'ultima casella 63 ma con l'obbligo di arrivare proprio su questa casella.
+Nel caso in cui il giocatore faccia un punteggio di dadi più alto del numero di spazi che lo separano dalla vittoria, dovrà retrocedere di altrettante caselle aggiuntive.
+Gioco sviluppato da:
+Quentin Fauré (interfaccia grafica) e Jimmy Kipfer (programma motorio)
+Tradotto da:
+Traduzione di Google
+Il giocatore %s è %seme nella casella %s
+Ecco la classifica dei giocatori:

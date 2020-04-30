@@ -1,0 +1,44 @@
+﻿Ludus a Goose Simplified | ISN
+Tabula ludum project | ISN %s
+>> Play <<
+>> Options <<
+>> Exeunt <<
+>> Ad pelagus menu <<
+>> View credit <<
+>> Ad Options <<
+Eius?
+lingua delectu
+musica volumine
+Ex volumine sonus effectus
+Eligens numerum ludio
+Talis I = %s | Talis II = %s | Advancing %s
+Turn #%s
+Satus >> << ludum
+Est quod ludio ludius est scriptor rursus %s/%s
+Est %s ludio ludius (s) in carcerem / atque
+Cum motus incipit a pin
+Alea volvunt
+>> Auxilium  <<
+modus tenebris?
+Satus de ludum a Goose:
+Plays quisque ludio ludius currit ad II tractu ab alea. Fretus numerus figure aut nactus est, a ludio ludius eius corpori arrhabonem arca archa.
+Anser praecepta de ludum sunt respectu numeri secundum quod factum est ad quadratum ex quibus aut cadit.
+Videamus in detail illa praecepta;
+☼ in principio de ludum, ludio ludius esse, si in III et VI ex IX, non est in moveri ad arrhabonem numero 26. Si statim ab IV et V IX suus est, ad numerum LIII.
+Si ☼ per ludum, ludio ludius in in terris anserisque fatum complorat, iterum factae sint in provincia numerum punctorum.
+Si ludio ludius est ☼ VI, quod ire necesse est in obstructionum XII.
+Et procidens ☼ ludio ludius in in deversorium est arca XIX correspondentes his rursus transiet per singulos vicissim II.
+Quas ego te terras et ☼ ludio ludius qui de XXXI correspondentes in capsa eadem numero et tam exspecto alius ludio ludius usque ad locum obtineat.
+Et qui ceciderit super buxum ☼ XLII correspondentes Quae regerent passus est ad buxum XXX.
+Qui respondens LII ☼ ibimus in carcere expectans alius ludio ludius venire usque ad ejusdem numeri ad relinquo.
+☼ ludio ludius est qui vadit in reprehendo arca archa mos satus ludum LVIII correspondentes In cranio sentiuntur ab initio
+☼ qui conjunctus est alius ludio ludius in eodem stetisset coram arca vel capsa ad te ludere.
+Quam vincere ludum in a Goose:
+Vincere ludum in ius anserinum vel te non esse est prius perveniet ad ultimum LXIII arca archa sed postulationem ut in hac ACERVUS.
+Si talis fecerit ludio ludius ustulo altius quam numerus spatia inter omnes philosophos victoria, is mos tergum extra omnem boxes.
+Developed per ludum;
+Quentin Victoria (GUI) & Kipfer Jimmy (motricium program)
+Per translata / per:
+Latin Vulgate Google
+Ludio ludius est %s parce %s seminat in arca %s
+Haec sunt praecepta atque rankings de scaenicorum,

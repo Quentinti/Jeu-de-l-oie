@@ -1,0 +1,44 @@
+﻿Ka māʻani o ka baʻaka māmā | ISN
+Palapala Kūkākūkā Goose | ISN %s
+<< Play >>
+<< Nā koho "
+<< Quit >>
+<< E hoʻi i ka papa kuhikuhi nui "
+<< Eʻike i nā kumukūʻai "
+<< Back i nā koho >>
+Kona?
+Ke koho i ka'ōlelo
+Ka leo o ke mele
+Ka nui o nā hopena maikaʻi
+Koho o ka heluna o nā mea pāʻani
+De 1 = %s | Dice 2 = %s | Ke holomua o %s
+Mākaʻikaʻi #%s
+<< Hoʻomaka i ka pāʻani >>
+ʻO ka pinepine o ka mea hoʻokani %s/%s
+Aia kahi %s player (s) ma ka hale paʻahao / maikaʻi
+E hoʻomaka e hoʻoneʻe i ka pawn
+E kī i ka dice
+<< Mākaʻikaʻi >>
+ʻO ka'ōuli pouli?
+E hoʻomaka i kahi pāʻani o Goose:
+Hoʻokani kēlā me kēia mea pāʻani i kona manawa ma ka pahuʻana i nā'ioloʻelua. Ma muli o ka helu a iʻole ka helu i loaʻa, piʻi ka mea hoʻokani i kāna pahu pahu ma ka pahu.
+Aia nā leka o ka pāʻani o Goose e mahalo e like me ka helu i hanaʻia a iʻole ka pahu i hāʻule ai kekahi.
+E nānā pono kākou i kēia mau rula:
+☼ I ka hoʻomakaʻana o ka pāʻani, inā eʻeli ke 9 o ka pahu i 9 a me 3, pono iā ia ke holo i mua o kāna paina i ka helu 26. Inā hanaʻo ia i 9 me 4 a me 5, e heleʻo ia i ka helu 53.
+☼ Inā ma ka pāʻani, e hāʻule ka mea hoʻokani i kahi kuihi, e piʻi houʻo ia i ka helu o nā hana i hanaʻia.
+☼ Inā'ōwili kekahi mea pāʻani 6, ponoʻo ia e hele i ka papa 12.
+☼ʻO ka mea hoʻokani pila e hāʻule ana i ka pahu 19 e pili ana i kahi hōkele, pono e hele i kona manawa i ka manawa o 2 mau koho.
+☼ E kali ka mea hoʻokani pila i ka pahu 31 e pili ana i ka punawai i kahi mea'ē aʻe e hiki i ka helu like a hoʻonoho i kona wahi.
+☼ʻO kēlā mea kēia mea e hāʻule ma ka pahu 42 e pili pū ana me ka mea labyrinth e hoʻi hou i ka pahu 30.
+☼ʻO ka mea i hele i 52 paʻiʻia e kali ka hale paʻahao no kahi mea'ē aʻe e hele mai i ka helu like e haʻalele.
+☼ʻO ka mea hoʻokani pila e hele ana i ka pahu 58 e like me ka pahu o ka Head Head e hoʻomaka hou i ka pāʻani mai ka hoʻomaka
+☼ʻO ka mea i hui pūʻia me kekahi mea'ē aʻe ma ka pahu hoʻokahi, e hele i ka pahu kahi i hoʻokani mua ai ka mea pāʻani'ē aʻe.
+Pehea e lanakila ai i kahi pāʻani o Goose:
+No ka lanakilaʻana i ka pāʻani o Goose, ponoʻoe ka mua e hiki i ka pahu hope 63 akā me ka kuleana e hōʻea pololei ma kēia pahu.
+Inā hiki i ka mea pāʻani ke hana i kahi scoreʻoi aʻe ma mua o ka helu o nā hakahaka e hoʻokaʻawale iā ia mai ka lanakila, e hoʻihoʻiʻo ia i nā pahu hou.
+Nā hana i hanaʻia e:
+ʻO Quentin Fauré (ke kiki kiʻi) & Jimmy Kipfer (polokalamu kaʻa)
+Unuhiʻia e:
+ʻO ka unuhi Google
+Pūnaehana %s ka %seme i ka pahu %s
+Eia ka hoʻonohonoho o ka poʻe pāʻani:

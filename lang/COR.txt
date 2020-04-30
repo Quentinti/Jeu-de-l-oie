@@ -1,0 +1,44 @@
+﻿Game di l'oca semplificata ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Opzioni >>
+<< Quit >>
+<< Torna à u menù principale >>
+<< Vede i crediti >>
+<< Back to options>
+Sì?
+Scelta di a lingua
+Volume di musica
+Volume di effetti sonori
+Scelta di u numaru di giocatori
+De 1 =%s | Dice 2 =%s | Progressu di %s
+Tour #%s
+<< Start the game >>
+Hè u turnu di u lettore %s/%s
+Ci hè %s lettore in prigione / pozzu
+Comincia à muvà u pedinu
+Arrotulà i dadi
+<< Help >>
+Modu scuro?
+Inizià una ghjocu di Oca:
+Ogni giocatore hà u so turnu lanciando i dui dadi. Sicondu u numeru o u numeru ottenutu, u lettore face a porta à a pedella di scatula.
+Ci sò reguli di u ghjocu di Goose à rispittà secondu à u numeru chì unu faci o a scatula nantu à a quale si hè caduta.
+Fighjà una veduta più vicinu a queste regule:
+Of of one one If
+Se durante u ghjocu, u lettore cade nantu à una oca, torna à fà avverà u numeru di punti fatti.
+A Se un ghjocu tira 4, deve andà à a piazza 12.
+Who U lettore chì cade nantu à a casella 19 currente à un hotel deve passà u so turnu durante 2 turni.
+Who U lettore chì cade nantu à a scatula 31 chì risponde à u pozzu attende chì un altru ghjocu ghjunghji à u listessu numeru è piglia u so postu.
+Chiunque cade nantu à a casella 42 chì risponde à u labirintu tornarà necessariamente à a scatula 30.
+Goes Chì va in 52 partite cù a prigione, attendu chì un altru ghjocu ghjunghjini à u listessu numeru per andà.
+Who U lettore chì va in casella 58 currente in a scatula Death's Head cumincerà u ghjocu da u principiu
+Chì quellu hè unitu da un altru lettore in a stessa casella duverà andà à u scatolu duve era l'altru giocatore prima di ghjucà.
+Cumu vincite una ghjocu di Goose:
+Per guadagnà una ghjocu di Goose, deve esse u primu chì ghjunghji nantu à l'ultima casella 63, ma cun u obligazione di ghjunghje direttamente in sta scatula.
+In casu chì u lettore faci un puntu di zecca più alta ch'è u numaru di spazii chì li separanu da a vittoria, duverà di fassi ritornu da parechje scatule addizionali.
+Game sviluppatu da:
+Quentin Fauré (interfaccia grafica) & Jimmy Kipfer (prugramma motoru)
+Tradotto da:
+Google Translation
+U lettore %s hè %seme in casella %s
+Eccu a classificazione di i ghjucatori:

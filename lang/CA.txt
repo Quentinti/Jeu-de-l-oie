@@ -1,0 +1,44 @@
+﻿Joc de la gallina simplificada ISN
+Goose Game Project | ISN %s
+<< Juga >>
+<< Opcions >>
+<< Surt >>
+<< Tornar al menú principal >>
+<< Vegeu els crèdits >>
+<< Tornar a les opcions >>
+Seu?
+Elecció del llenguatge
+Volum de música
+Volum d’efectes sonors
+Elecció del nombre de jugadors
+De 1 = %s | Dau 2 = %s Progrés de %s
+Tour #%s
+<< Inici del joc >>
+És el gir del jugador %s/%s
+Hi ha% s jugador (s) a la presó / bé
+Comenceu a moure el peó
+Roda els daus
+<< Ajuda >>
+Mode fosc?
+Comença un joc d’oca:
+Cada jugador juga el seu torn llançant els dos daus. Segons el nombre o el nombre obtingut, el jugador avança la caixa de peons per caixa.
+Hi ha regles del joc d'Oca per respectar segons el nombre que un fa o la caixa en què cau.
+Fem una ullada a aquestes regles:
+Al principi del joc, si un dels jugadors tira 9 per 6 i 3, ha d’avançar el seu peó immediatament al número 26. Si fa 9 per 4 i 5, anirà al número 53.
+Si durant el joc, el jugador cau sobre una oca, torna a avançar el nombre de punts realitzats.
+☼ Si un jugador tira 6, ha d’anar a la casella 12.
+El jugador que cau a la casella 19 corresponent a un hotel ha de passar el seu torn durant 2 torns.
+☼ El jugador que caigui a la casella 31 corresponent al pou esperarà a que un altre jugador arribi al mateix número i ocupi el lloc.
+☼ Qualsevol que caigui a la casella 42 corresponent al laberint tornarà necessàriament al quadre 30.
+☼ Qui va a 52 que coincideix amb la presó esperarà que un altre jugador arribi al mateix nombre per sortir.
+☼ El jugador que va a la casella 58 corresponent a la casella Death's Head començarà el joc de nou des del principi
+☼ Qui s’uneix amb un altre jugador a la mateixa caixa haurà d’anar a la casella on l’altre jugador abans de jugar.
+Com guanyar un partit de Goose:
+Per guanyar un partit de Goose, haureu de ser el primer a arribar a l'últim quadre 63, però amb l’obligació d’arribar directament en aquest quadre.
+En el cas que el jugador faci un dau més gran que el nombre d’espais que el separin de la victòria, haurà de tornar enrere per tantes caselles addicionals.
+Joc desenvolupat per:
+Quentin Fauré (interfície gràfica) i Jimmy Kipfer (programa de motor)
+Traduït per:
+Traducció de Google
+El reproductor %s é %s seme al quadre %s
+Aquí teniu el rànquing dels jugadors:

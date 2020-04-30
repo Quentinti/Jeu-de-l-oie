@@ -1,0 +1,44 @@
+﻿Game of simplified goose | xirabiyê
+Goose Game Project | ISN %s
+<< Play >>
+<< Hilbijêre >>
+<< Quit >>
+<< Veguhere sereke >>
+<< Credits binêre >>
+<< Vegere Vegere >>
+Wî?
+Hilbijartina ziman
+Volume muzîka
+Volume ya bandora dengan
+Hilbijartina hejmara lîstikvanan
+De 1 = %s | Dice 2 = %s | Progress of %s
+Tour #%s
+<< Destpêka lîstikê >>
+Ev riya %s/%s jî ev e
+Li sembol / baş heye %s player (s) hene
+Dest pêvebikin
+Rûçê bike
+<< Alîkar >>
+Moda Dark?
+Destpêkek lîstika Goose:
+Her komek bi rûyê xwe du dakêş dike. Li ser hejmara hejmara an hejmarê tê de, lîstikvan bi qonaxa xwe ya bi boxê pêşve dike.
+Qanûnên lîstik ên Goose hene ku li gorî hejmareke ku yek an qonaxek li ser kî dibe.
+Let's look at these rules:
+☼ Di destpêka lîstikê, eger player 9 by 6 û 3 ye, divê ew îpotekê de wî di cih de bi hejmara 26. bar Heke ev 9 by 4 û 5, ku ew dê ji bo hejmara 53 here.
+☼ Dema ku di lîstikê de, lîstikvan li ser çepê, ew dîsa hejmara pêşniyarên pêşniyaz dike.
+☼ Heke ku lîstikek 6-ê, ew divê 12-anîn.
+☼ A player who li ser bloka 19 ê li peymana otêlê divê di dema 2-ê de derbas dibe.
+☼ The player ku li ser box 31 destdayî ji bo baş li benda player din bi heman hejmara digihînim, û cihê xwe û xaka.
+☼ Kesê ku di çarçoveya çarçoveya 42 de bi heman rengî veguhestinê dê dê 30 salî bişînin.
+☼ Ev di 52 salî de meydanek dê dê din player bisekinin û bi heman rengê xwe bigire.
+☼ A player who diçin 58ê li Boxê Mirinê dê destpêka lîstikê ji destpêka destpêka dest pê bike
+☼ One ku bi player din li ser box heman bûn, wê ji bo zeviya butona player here berî dilîze rawesta.
+Çawa ku lîstikek Goose bistîne:
+To win a game ji Goose, ku hûn ji bo ew pêşî ji destź li ser cara box 63 lê bi mercê ku sergoyê li ser vê qutîkê.
+Eger player jî a dice puan bilind ji hejmara yên qadên veqetîne û serkeftina, ku ew dê hemû qutiyên extra vegerandin.
+Game developed by:
+Quentin Fauré (Interfona Grafîkî) û Jimmy Kipfer (bernameya motor)
+Translated by:
+Google Translation
+%s Player %s li box %s e
+Li vir lîstikvanan e:

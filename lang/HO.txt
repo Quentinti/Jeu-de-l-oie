@@ -1,0 +1,44 @@
+﻿Az egyszerűsített liba játékát ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Beállítások >>
+<< Kilépés >>
+<< Vissza a főmenübe >>
+<< Lásd a hiteleket >>
+<< Vissza az opciókhoz >>
+Ő?
+A nyelv választása
+A zene mennyisége
+A hanghatások mennyisége
+A játékosok számának megválasztása
+De 1 = %s | Dice 2 = %s | A (z)%s előrehaladása
+#%s túra
+<< Indítsa el a játékot >>
+Ez a játékos fordulata %s/%s
+%s játékos van börtönben / jól
+Kezdje el a gyalog mozgását
+Roll a kocka
+<< Súgó >>
+Sötét mód?
+Indítsd el a Goose játékot:
+Minden játékos a két kockát dobja. A számtól vagy a kapott számtól függően a játékos dobozonként halad előre a gyalogtábláján.
+A Goose játékszabályai tiszteletben tartják azt a számot, amelyet az egyik gyártmány vagy a doboz, amelyen az egyik esik.
+Nézzük meg közelebbről ezeket a szabályokat:
+☼ A játék elején, ha az egyik játékos a 6-as és a 3-as lapok között 9-et dob, azonnal el kell haladnia a gyalogját a 26-as számra.
+☼ Ha a játék során a játékos libahúzóra esik, ismét a megadott pontok számát adja vissza.
+☼ Ha a játékos 6-os dob, a 12-es négyzetre kell mennie.
+☼ A hotelnek megfelelő 19-es mezőbe eső játékosnak 2 fordulóban kell fordulnia.
+☼ A játékos, aki a kútnak megfelelő 31. rovatba esik, vár egy másik játékosra, aki ugyanarra a számra érkezik, és megveszi a helyét.
+☼ Aki a labirintusnak megfelelő 42. mezőbe esik, szükségszerűen visszatér a 30. mezőbe.
+☼ A 52 börtönbe kerülők várják, hogy egy másik játékos ugyanazt a számot kapja, hogy elhagyja.
+☼ A Death's Head dobozhoz tartozó 58-as mezőbe a játékos újra elkezdi a játékot
+☼ Aki egy másik játékoshoz csatlakozik ugyanazon a dobozon, a dobozba kell mennie, ahol a másik játékos játszott.
+Hogyan nyerj egy lúd játékot:
+A Goose játék megnyeréséhez az első, aki az utolsó 63-as mezőbe érkezik, de azzal a kötelezettséggel, hogy pontosan ezen a mezőn érkezzen.
+Abban az esetben, ha a játékos egy kocka pontszámot magasabbra emel, mint a győzelmetől elválasztó terek száma, akkor annyi további dobozt kell visszavezetnie.
+Játék fejlesztése:
+Quentin Fauré (grafikus felület) & Jimmy Kipfer (motoros program)
+Fordította:
+Google Fordítás
+A %s lejátszó %seme a %s mezőben
+Itt van a játékosok rangsorolása:

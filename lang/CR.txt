@@ -1,0 +1,44 @@
+﻿Jwèt nan zwa a senplifye | ISN
+Goose jwèt Pwojè | ISN %s
+<< Jwe >>
+<< Opsyon >>
+<< Kite >>
+<< Retounen nan meni prensipal la >>
+<< Gade kredi yo >>
+<< Retounen nan opsyon >>
+Li?
+Chwa langaj
+Volim mizik
+Volim efè son
+Chwa nan kantite jwè yo
+De 1 = %s | Zo 2 = %s | Pwogrè de %s
+Tour #%s
+<< Kòmanse jwèt la >>
+Li nan vire jwè a %s/%s
+Gen %s jwè (s) nan prizon / byen
+Kòmanse deplase pyon an
+Woule zo yo
+<< Ede >>
+Mòd nwa?
+Kòmanse yon jwèt nan Goose:
+Chak jwè jwe vire l 'yo voye voye zo yo de. Tou depan de nimewo a oswa nimewo ki jwenn la, jwè a avanse bwat pyon li pa bwat.
+Gen règ nan jwèt la nan Goose respekte dapre nimewo a ke yon moun fè oswa bwat la sou ki youn tonbe.
+Se pou nou pran yon gade pi pre nan règleman sa yo:
+☼ Nan kòmansman jwèt la, si youn nan jwè yo woule 9 pa 6 ak 3, li dwe avanse plannen li imedyatman nan nimewo 26. Si li fè 9 pa 4 ak 5, li pral ale nan nimewo a 53.
+Si pandan jwèt la, jwè a tonbe sou yon zwa, li avanse ankò kantite pwen yo te fè.
+Si yon jwè woule 6, li dwe ale nan kare 12.
+Who Jwè a ki tonbe sou bwat 19 ki koresponn a yon otèl dwe pase vire li pandan 2 vire.
+Who Jwè a ki tonbe sou bwat 31 ki koresponn a byen a ap tann pou yon lòt jwè rive nan menm nimewo a ak pran plas li.
+☼ Nenpòt moun ki tonbe sou bwat 42 ki koresponn ak labirent la ap nesesèman retounen nan bwat 30 la.
+☼ Ki moun ki ale nan 52 matche prizon an ap tann pou yon lòt jwè pou yo vini nan menm nimewo a kite.
+Who Jwè a ki ale nan bwat 58 ki koresponn ak tèt bwat lanmò a ap kòmanse jwèt la ankò depi nan konmansman an
+☼ Nenpòt moun ki ansanm ak yon lòt jwè sou menm bwat la ap gen pou ale nan bwat kote lòt jwè a te anvan yo te jwe.
+Ki jan pou pou genyen yon jwèt nan Goose:
+Pou genyen yon jwèt nan Goose, ou dwe premye moun ki rive sou dènye bwat 63 a men ak obligasyon la rive dwat sou bwat sa a.
+Nan ka jwè a fè yon zo nòt pi wo pase kantite a nan espas ki separe l 'soti nan viktwa a, li pral gen pou avanse pou pi tounen nan kòm anpil bwat adisyonèl.
+Jwèt devlope pa:
+Quentin Fauré (entèfas grafik) & Jimmy Kipfer (pwogram motè)
+Tradui pa:
+Tradiksyon Google
+Jwè %s se %seme nan bwat %s
+Isit la se plase nan jwè yo:

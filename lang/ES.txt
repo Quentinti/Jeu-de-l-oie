@@ -1,0 +1,44 @@
+﻿Juego del ganso simplificado | ISN
+Proyecto de juego de ganso | ISN %s
+<< jugar >>
+<< Opciones >>
+<< Salir >>
+<< Volver al menú principal >>
+<< Ver los créditos >>
+<< Volver a opciones >>
+Sonido?
+Elección de idioma
+Volumen de musica
+Volumen de efectos de sonido
+Elección del número de jugadores.
+De 1 =% s | Dados 2 =% s | Progreso de% s
+Tour #% s
+<< Comienza el juego >>
+Es el turno del jugador% s /% s.
+Hay% s jugador (s) en prisión / pozo
+Empezar a mover el peón
+Tirar los dados
+<< Ayuda >>
+Modo oscuro?
+Comience un juego de ganso:
+Cada jugador juega su turno lanzando los dos dados. Dependiendo del número o el número obtenido, el jugador avanza su caja de empeño caja por caja.
+Hay reglas del juego de Goose para respetar según el número que uno hace o la caja en la que cae.
+Echemos un vistazo más de cerca a estas reglas:
+☼ Al comienzo del juego, si uno de los jugadores tira 9 por 6 y 3, debe avanzar su peón inmediatamente al número 26. Si hace 9 por 4 y 5, irá al número 53.
+☼ Si durante el juego, el jugador cae sobre un ganso, avanza nuevamente el número de puntos obtenidos.
+☼ Si un jugador saca 6, debe ir a la casilla 12.
+☼ El jugador que cae en la casilla 19 correspondiente a un hotel debe pasar su turno durante 2 turnos.
+☼ El jugador que cae en la casilla 31 correspondiente al pozo esperará a que otro jugador llegue al mismo número y tome su lugar.
+☼ Quien caiga en la casilla 42 correspondiente al laberinto, necesariamente regresará a la casilla 30.
+☼ Quien vaya en 52 que coincida con la prisión esperará a que otro jugador llegue al mismo número para irse.
+☼ El jugador que va a la casilla 58 correspondiente a la casilla Death's Head comenzará el juego de nuevo desde el principio.
+☼ Quienquiera que se una a otro jugador en el mismo cuadro tendrá que ir al cuadro donde estaba el otro jugador antes de jugar.
+Cómo ganar un juego de ganso:
+Para ganar un juego de Goose, debes ser el primero en llegar a la última casilla 63, pero con la obligación de llegar directamente a esta casilla.
+En caso de que el jugador haga una puntuación de dados mayor que la cantidad de espacios que lo separa de la victoria, tendrá que retroceder tantas casillas adicionales.
+Juego desarrollado por:
+Quentin Fauré (interfaz gráfica) y Jimmy Kipfer (programa motor)
+Traducido por:
+Traducción de Google
+El jugador %s es %snd en el caso %s
+Aquí está el ranking de los jugadores:

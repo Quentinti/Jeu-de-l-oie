@@ -1,0 +1,44 @@
+﻿Leikur einfölduðu gæsarinnar | ISN
+Goose Game Project | ISN %s
+<< Spila >>
+<< Valkostir >>
+<< Hætta >>
+<< Til baka í aðalvalmyndina >>
+<< Sjá einingar >>
+<< Til baka í valkosti >>
+Hans?
+Val á tungumáli
+Hljóðstyrkur
+Hljóðstyrkur
+Val á fjölda leikmanna
+De 1 = %s | Dice 2 = %s | Framvindu %s
+Tour #%s
+<< Byrja leikinn >>
+Þetta er spilarinn %s/%s
+Það eru %s leikmaður (s) í fangelsi / brunn
+Byrjaðu að færa böndina
+Rúllaðu teningunum
+<< Hjálp >>
+Myrkur háttur?
+Byrjaðu á Goose:
+Hver leikmaður spilar snúning sinn með því að henda tveimur tärunum. Það fer eftir númerinu eða númerinu sem fæst, leikmaðurinn fer fram á kassa sínum með kassa.
+Það eru reglur leiksins um Goose að virða samkvæmt því númeri sem maður gerir eða kassann sem hann fellur á.
+Skoðaðu þessar reglur nánar:
+☼ Í byrjun leiksins, ef einn leikmaður rúlla 9 af 6 og 3, verður hann að fara strax í böndina til númer 26. Ef hann gerir 9 eftir 4 og 5, fer hann í númer 53.
+☼ Ef leikmaðurinn fellur á gæs á meðan á leik stendur, framfarir hann aftur fjölda punkta sem gerðar eru.
+☼ Ef leikmaður rúlla 6 verður hann að fara í ferning 12.
+☼ Leikmaðurinn, sem fellur á reit 19, sem svarar til hótels, verður að fara á sinn stað á 2 snúningum.
+☼ Leikmaðurinn sem fellur á kassa 31 sem samsvarar brunninum mun bíða eftir að annar leikmaður komist í sama númer og tekur sinn stað.
+☼ Sá sem fellur á kassa 42, sem samsvarar völundarhúsinu, verður endilega aftur í reit 30.
+☼ Hver fer í 52 sem passa við fangelsið mun bíða eftir að annar leikmaður komi í sama númer til að fara.
+☼ Leikmaðurinn sem fer í kassa 58 sem samsvarar kassanum Death Head mun hefja leikinn aftur frá upphafi
+☼ Sá sem er með annan leikmann í sama kassa verður að fara í kassann þar sem annar leikmaðurinn var áður en hann spilaði.
+Hvernig á að vinna leik af Goose:
+Til að vinna leik af Goose verður þú að vera fyrstur til að koma á síðasta reit 63 en með skyldu að koma fram á þessari reit.
+Ef leikmaðurinn gerir dice skorar hærra en fjöldi rýma sem skilur hann frá sigri verður hann að fara aftur með eins mörgum fleiri reitum.
+Leikur þróað af:
+Quentin Fauré (grafískt viðmót) og Jimmy Kipfer (mótor forrit)
+Þýdd af:
+Google þýðing
+Leikmaður %s er %seme í kassa %s
+Hér er röðun leikmanna:

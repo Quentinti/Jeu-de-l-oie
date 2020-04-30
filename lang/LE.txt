@@ -1,0 +1,44 @@
+﻿Vienkāršotu zosu spēle ISN
+Goose Game Project | ISN %s
+<< Play >>
+<< Iespējas >>
+<< Iziet >>
+<< Atpakaļ uz galveno izvēlni >>
+<< Skatiet kredītus >>
+<< Atpakaļ uz iespējām >>
+Viņa?
+Valodas izvēle
+Mūzikas apjoms
+Skaņas efektu apjoms
+Spēlētāju skaita izvēle
+De 1 = %s | Dice 2 = %s | %s progress
+Tour #%s
+<< Sāciet spēli >>
+Tas ir spēlētāja kārta %s/%s
+Ir %s spēlētājs (-i) cietumā / labi
+Sāciet lombardi pārvietošanu
+Rullējiet kauliņus
+<< Palīdzība >>
+Tumšs režīms?
+Sāciet zoss:
+Katrs spēlētājs spēlē savu kārtu, izmetot divas kauliņus. Atkarībā no iegūto numuru vai skaita spēlētājs ar kastīti izlaiž viņa lombardi.
+Goose spēlē ir noteikumi, kas jāievēro, ņemot vērā numuru, ko viens izgatavo, vai lodziņu, uz kuras tas atrodas.
+Apskatīsim šos noteikumus:
+☼ Spēles sākumā, ja viens no spēlētājiem rullis 9 ar 6 un 3, viņam ir jāsaglabā viņa lombards uz numuru 26. Ja viņš veic 9 ar 4 un 5, viņš dosies uz numuru 53.
+☼ Ja spēles laikā spēlētājs nokrīt uz zosu, viņš atkal palielina iegūto punktu skaitu.
+☼ Ja spēlētājs ritina 6, viņam jādodas uz laukumu 12.
+☼ Spēlētājam, kurš nokrīt 19. ailē, kas atbilst viesnīcai, ir jāgriežas pēc kārtas 2 kārtās.
+Player Spēlētājs, kurš nokrīt uz 31. ailes, kas gaida labi, gaida, ka kāds cits spēlētājs ieradīsies vienā un tajā pašā vietā un aizņems vietu.
+☼ Ikviens, kas iekrīt labirintam atbilstošajā 42. ailē, noteikti atgriezīsies pie 30. ailes.
+☼ Kurš iet 52, kas atbilst cietumam, gaidīs, kamēr kāds cits spēlētājs ieradīsies tajā pašā numurā, lai aizietu.
+☼ Spēlētājs, kurš dodas uz 58. lodziņu, kas atbilst lodziņam Death's Head, sāks spēli no sākuma
+☼ Kam pievienojas cits spēlētājs tajā pašā kastē, viņam būs jāiet uz lodziņu, kurā otrs spēlētājs bija spēlējis.
+Kā uzvarēt zoss:
+Lai uzvarētu zosu spēlē, jums ir jābūt pirmajam, kas ieradies pēdējā ailē 63, bet ar pienākumu ierasties tieši šajā lodziņā.
+Gadījumā, ja spēlētājs izdara kauliņus augstāk par vietu skaitu, kas viņu atdala no uzvaras, viņam būs jāatgriežas ar tik daudzām papildu kastēm.
+Spēle, ko izstrādājusi:
+Quentin Fauré (grafiskais interfeiss) & Jimmy Kipfer (motora programma)
+Tulkoja:
+Google tulkojums
+%s ir atskaņotāja %s eme %s
+Šeit ir spēlētāju rangs:
