@@ -12,6 +12,7 @@
 4. Fonctionnalités
 5. Dépendances
 6. Utilisation du programme
+7. Crédits
 
 ## Pourquoi ce projet ?
 
@@ -105,3 +106,5 @@ pip install contextlib
 ```
 
 ## Utilisation du programme
+
+## Crédits
